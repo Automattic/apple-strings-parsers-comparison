@@ -1,0 +1,3150 @@
+/* Translation-Revision-Date: 2020-12-24 08:54:04+0000 */
+/* Plural-Forms: nplurals=2; plural=n != 1; */
+/* Generator: GlotPress/2.4.0-alpha */
+/* Language: es */
+
+/* No comment provided by engineer. */
+"#%@ %@" = "#%1$@ %2$@";
+
+/* Format for each Product attribute */
+"%1$@ (%2$ld options)" = "%1$@ (%2$ld opciones)";
+
+/* Labels an order note. The user know it's not visible to the customer. Reads like 05:30 PM - username (Private) */
+"%1$@ - %2$@ (Private)" = "%1$@ - %2$@ (privado)";
+
+/* Labels an order note. The user know it's a system status message. Reads like 05:30 PM - username (System) */
+"%1$@ - %2$@ (System)" = "%1$@ - %2$@ (sistema)";
+
+/* Labels an order note. The user know it's visible to the customer. Reads like 05:30 PM - username (To Customer) */
+"%1$@ - %2$@ (To Customer)" = "%1$@ - %2$@ (Para el cliente)";
+
+/* Review title. Reads as {Review author} left a review */
+"%1$@ left a review" = "%1$@ dejó una reseña";
+
+/* Review title. Reads as {Review author} left a review on {Product}. */
+"%1$@ left a review on %2$@" = "%1$@ ha dejado un comentario sobre %2$@";
+
+/* Notice format when a shipping label refund request is successful. The first variable shows the shipping label service name (e.g. USPS Priority Mail). The second variable shows the formatted amount that is eligible for refund  (e.g. $7.50). */
+"%1$@ refund requested (%2$@)" = "Se ha solicitado un rembolso a %1$@ (%2$@)";
+
+/* Payment on <date> received via (payment method title) */
+"%1$@ via %2$@" = "%1$@ a través de %2$@";
+
+/* In Order Details, the pattern used to show the quantity multiplied by the price. For example, “23 x $400.00”. The %1$@ is the quantity. The %2$@ is the formatted price with currency (e.g. $400.00). */
+"%1$@ x %2$@" = "%1$@ x %2$@";
+
+/* Order refunded shipping label title. The first variable shows the refunded amount (e.g. $12.90). The second variable shows the requested date (e.g. Jan 12, 2020 12:34 PM). */
+"%1$@ • %2$@" = "%1$@• %2$@";
+
+/* Displays a time range followed by a specific date/time */
+"%1$@ › %2$@" = "%1$@ › %2$@";
+
+/* Displays a date range for a stats interval */
+"%1$@-%2$@" = "%1$@-%2$@";
+
+/* In Order Details > product details: if the product has attributes, the pattern used to show the attributes and quantity multiplied by the price. For example, “purple, has logo・23 x $400.00”. The %1$@ is the list of attributes (e.g. from variation). The %2$@ is the quantity. The %3$@ is the formatted price with currency (e.g. $400.00). */
+"%1$@・%2$@ x %3$@" = "%1$@・%2$@ x %3$@";
+
+/* 1 Item */
+"%@ Item" = "%@ elemento";
+
+/* For example, '5 Items' */
+"%@ Items" = "%@ elementos";
+
+/* Order refunded shipping label title. The string variable shows the shipping label service name (e.g. USPS). */
+"%@ label refund requested" = "Se ha solicitado la etiqueta de reembolso a %@";
+
+/* Review title. Reads as {Review author} left a review on {Product}. */
+"%@ left a review on %@" = "%1$@ ha dejado un comentario sobre %2$@";
+
+/* It reads: \"<date> via <refund method type> – View details\". The text `View details` is a link. */
+"%@ via %@" = "%1$@ a través de %2$@";
+
+/* Title of the label indicating that there are multiple items to refund. */
+"%d items selected" = "%d elementos elegido";
+
+/* Refund item price and quantity format. EG: 2 x $10.00 each */
+"%d x %@ each" = "%1$d x %2$@ cada uno";
+
+/* Navigation bar title for selecting multiple products when more multiple products have been selected. */
+"%ld Products Selected" = "%ld Productos seleccionados";
+
+/* Format of cross-sell linked products row in the singular form. Reads, `1 cross-sell product` */
+"%ld cross-sell product" = "%ld venta cruzada de producto";
+
+/* Format of cross-sell linked products row in the plural form. Reads, `5 cross-sell products` */
+"%ld cross-sell products" = "%ld ventas cruzadas de productos";
+
+/* Format of the number of Downloadable Files row in the singular form. Reads, `1 file` */
+"%ld file" = "%ld archivo";
+
+/* Format of the number of Downloadable Files row in the plural form. Reads, `5 files` */
+"%ld files" = "%ld archivos";
+
+/* Label about product's inventory stock status shown on Products tab */
+"%ld in stock" = "Existencias: %ld";
+
+/* Format for number of products added for upsell and cross sell numbers in linked products. Reads, `1 product`
+   Format of the number of grouped products in singular form */
+"%ld product" = "%ld producto";
+
+/* Format for number of products added for upsell and cross sell numbers in linked products. Reads, `5 products`
+   Format of the number of grouped products in plural form */
+"%ld products" = "%ld productos";
+
+/* Format of upsell linked products row in the singular form. Reads, `1 upsell product` */
+"%ld upsell product" = "%ld venta dirigida de producto";
+
+/* Format of upsell linked products row in the plural form. Reads, `5 upsell products` */
+"%ld upsell products" = "%ld ventas dirigidas de productos";
+
+/* Label about one product variation shown on Products tab */
+"%ld variant" = "%ld variante";
+
+/* Label about number of variations shown on Products tab */
+"%ld variants" = "%ld variantes";
+
+/* Product title in Products list when there is no title */
+"(No Title)" = "(sin título)";
+
+/* Step 2 of shipping label printing instructions screen. The content inside two double asterisks **...** denote bolded text. */
+"**Ensure AirPrint is enabled** in your printer settings. You may need to configure this setting on the printer itself.\n\nSee the documentation that came with your printer for details." = "**Ensure AirPrint is enabled** in your printer settings. You may need to configure this setting on the printer itself.\n\nSee the documentation that came with your printer for details.";
+
+/* Navigation bar title for selecting multiple products when one product has been selected. */
+"1 Product Selected" = "1 producto seleccionado";
+
+/* Title of the label indicating that there is 1 item to refund. */
+"1 item selected" = "1 elemento elegido";
+
+/* Shown when there are more than 99 items of something (e.g. Processing Orders). */
+"99+" = "Más de 99";
+
+/* Placeholder of the Product Short Description row on Product main screen */
+"A brief excerpt about the product" = "Un extracto breve sobre el producto";
+
+/* Subtitle of the product form bottom sheet action for editing short description. */
+"A brief excerpt about your product" = "Un extracto breve sobre el producto";
+
+/* Description of the Action sheet option when the user wants to change the Product type to grouped product */
+"A collection of related products" = "Una colección de productos relacionados";
+
+/* Description of the Action sheet option when the user wants to change the Product type to variable product */
+"A product with variations like color or size" = "Un producto con variaciones, como el color o el tamaño";
+
+/* In Refund Confirmation, The message shown to the user to inform them that they have to issue the refund manually. The %1$@ is the payment method like “Stripe”. */
+"A refund will not be issued to the customer. You will need to manually issue the refund through %1$@." = "No se emitirá un reembolso para el cliente. Tendrás que emitir manualmente el reembolso a través de %1$@.";
+
+/* No comment provided by engineer. */
+"A refund will not be issued to the customer. You will need to manually issue the refund through Stripe." = "No se emitirá un reembolso para el cliente. Tendrás que emitir manualmente el reembolso a través de Stripe.";
+
+/* Description of the Action sheet option when the user wants to change the Product type to simple product */
+"A unique item to sell" = "Un único artículo que vender";
+
+/* An error message. */
+"A valid email address is needed to mail an authentication link. Please return to the previous screen and provide a valid email address." = "Se requiere una dirección de correo electrónico válida a la cual enviar un enlace de verificación. Vuelve a la pantalla anterior y proporciona una dirección de correo electrónico válida.";
+
+/* Shown when a user types a non-number into the two factor field. */
+"A verification code will only contain numbers." = "Un código de verificación solo contendrá números.";
+
+/* Header of existing attribute options section in Add Attribute Options screen */
+"ADD OPTIONS" = "ADD OPTIONS";
+
+/* About this app (information page title) */
+"About" = "Acerca de";
+
+/* My Store > Settings > About app section */
+"About the app" = "Acerca de la aplicación";
+
+/* Application's Active State */
+"Active" = "Activo";
+
+/* The plugin is active on the site and has not enabled automatic updates */
+"Active, Autoupdates off" = "Activo, actualizaciones automáticas inactivas";
+
+/* The plugin is active on the site and has enabled automatic updates */
+"Active, Autoupdates on" = "Activo, actualizaciones automáticas activas";
+
+/* A button title used for a shipment tracking unit test
+   A button title used for a unit test - Action for adding a Products' downloadable files' info remotely - Add a note screen - button title to send the note - Add tracking screen - button title to add a tracking */
+"Add" = "Añadir";
+
+/* Action to add category on the Product Categories screen
+   Product Add Category navigation title */
+"Add Category" = "Añadir categoría";
+
+/* Downloadable file screen navigation title */
+"Add Downloadable File" = "Añadir archivo descargable";
+
+/* Action to add downloadable file on the Product Downloadable Files screen */
+"Add File" = "Add File";
+
+/* Action to add downloadable file on the Product Downloadable Files screen */
+"Add File" = "Añadir archivo";
+
+/* Action to add one photo on the Product images screen */
+"Add Photo" = "Añadir foto";
+
+/* Action to add photos on the Product images screen */
+"Add Photos" = "Añadir fotos";
+
+/* Title for adding the price settings row on Product main screen */
+"Add Price" = "Añadir precio";
+
+/* Action to add linked products to a product in the Linked Products List Selector screen
+   Add Products button inside the Linked Products screen. - Navigation bar title for selecting multiple products. */
+"Add Products" = "Añadir productos";
+
+/* A title used for a shipment tracking unit test
+   Add Tracking row label - Add tracking screen - title. - The title used for a unit test */
+"Add Tracking" = "Añadir seguimiento";
+
+/* Accessibility label for the 'Add a note' button
+   Button text for adding a new order note */
+"Add a note" = "Añadir una nota";
+
+/* The action to add a product */
+"Add a product" = "Añadir un producto";
+
+/* Cell text in Add / Edit product when there are no images. */
+"Add a product image" = "Añadir una imagen de producto";
+
+/* Placeholder text in Product Purchase Note screen */
+"Add a purchase note..." = "Añadir una nota de compra...";
+
+/* Accessibility label for the 'Add a tracking' button */
+"Add a tracking" = "Añadir un seguimiento";
+
+/* Add Product Attribute screen navigation title */
+"Add attribute" = "Añadir atributo";
+
+/* Footer of text field section in Add Attribute Options screen */
+"Add each option and press enter" = "Add each option and press enter";
+
+/* Title of the bottom sheet from the product form to add more product details.
+   Title of the button at the bottom of the product form to add more product details. */
+"Add more details" = "Añadir más detalles";
+
+/* Voiceover accessibility label for the tags field in product tags. */
+"Add new tags, separated by commas." = "Añade nuevas etiquetas, separadas por comas.";
+
+/* Title for adding an external URL row on Product main screen for an external/affiliate product */
+"Add product link" = "Añadir enlace del producto";
+
+/* Title for adding grouped products row on Product main screen for a grouped product */
+"Add products to the group" = "Añadir productos al grupo";
+
+/* Accessibility label to add products' downloadable files' info remotely */
+"Add products' downloadable files' info remotely" = "Añade la información de los archivos descargables de los productos a distancia";
+
+/* Title for adding variations row on Product main screen for a variable product */
+"Add variations" = "Añadir variaciones";
+
+/* Subtitle of the product form bottom sheet action for editing shipping settings. */
+"Add weight and dimensions" = "Añadir peso y dimensiones";
+
+/* VoiceOver accessibility hint, informing the user that the button can be used to add tracking to an order. Should end with a period. */
+"Adds tracking to an order." = "Añade el seguimiento a un pedido.";
+
+/* Cell subtitle explaining why you might want to navigate to view the application log. */
+"Advanced tool to review the app status" = "Herramienta avanzada para revisar el estado de la aplicación";
+
+/* Option to select the Airmail app when logging in with magic links */
+"Airmail" = "Airmail";
+
+/* Title for the second page in the Orders tab. */
+"All Orders" = "Todos los pedidos";
+
+/* The message shown in the Orders → Processing tab if the list is empty. */
+"All orders have been fulfilled" = "Se han completado todos los pedidos";
+
+/* Mark all reviews as read notice */
+"All reviews marked as read" = "Se han marcado todas las reseñas como leídas";
+
+/* Display label for the product's inventory backorders setting option */
+"Allow" = "Permitir";
+
+/* Display label for the product's inventory backorders setting option */
+"Allow, but notify customer" = "Permitir, pero avisar al cliente";
+
+/* Instructions for users with two-factor authentication enabled. */
+"Almost there! Please enter the verification code from your authenticator app." = "¡Ya falta poco! Por favor, introduce el código de verificación de tu aplicación authenticator.";
+
+/* String displayed before offering alternative login methods */
+"Alternatively:" = "Otras opciones:";
+
+/* Title of shipping label eligible refund amount in Refund Shipping Label screen */
+"Amount Eligible For Refund" = "Cantidad apta para el reembolso";
+
+/* An error description explaining that a Menu could not be created. */
+"An error occurred creating the Menu." = "Ha habido un error creando el menú.";
+
+/* An error description explaining that a Menu could not be deleted. */
+"An error occurred deleting the Menu." = "Ha habido un error eliminado el menú.";
+
+/* An error description explaining that Menus could not be fetched. */
+"An error occurred fetching the Menus." = "Se ha producido un error al recuperar los menús.";
+
+/* An error description explaining that a Menu could not be updated. */
+"An error occurred updating the Menu." = "Se ha producido un error al actualizar el Menú.";
+
+/* Used when a remote response doesn't have a specific message for a specific request */
+"An error occurred while processing your request: " = "Se produjo un error al procesar su solicitud:";
+
+/* Footer text in Product Purchase Note screen */
+"An optional note to send the customer after purchase" = "Una nota opcional para enviarla al cliente después de la compra";
+
+/* Title when there is no filter set. */
+"Any" = "Cualquiera";
+
+/* Format of a product varition attribute description where the attribute is set to any value. */
+"Any %@" = "Cualquier %@";
+
+/* Message shown when Apple authentication fails. */
+"Apple authentication failed.\nPlease make sure you are signed in to iCloud with an Apple ID that uses two-factor authentication." = "Identificación de Apple fallida.\nAsegúrate de acceder a iCloud con un ID de Apple que use la autenticación de dos factores.";
+
+/* Application Logs navigation bar title - this screen is where users view the list of application logs available to them. */
+"Application Logs" = "Registros de la aplicación";
+
+/* Change order status screen - button title to apply selection */
+"Apply" = "Aplicar";
+
+/* Approve a comment */
+"Approve" = "Aprobar";
+
+/* Display label for the review's approved status
+   Unapprove a comment */
+"Approved" = "Se ha aprobado";
+
+/* Approves a comment. Spoken Hint. */
+"Approves the comment" = "Aprueba el comentario";
+
+/* Title of the alert when a user is changing the product type */
+"Are you sure you want to change the product type?" = "¿Seguro que quieres cambiar el tipo de producto?";
+
+/* Message title for Discard Changes Action Sheet */
+"Are you sure you want to discard these changes?" = "¿Seguro que quieres descartar estos cambios?";
+
+/* Alert title to confirm the user wants to discard changes in Product Visibility */
+"Are you sure you want to discard your changes?" = "¿Seguro que quieres descartar los cambios?";
+
+/* The text on the confirmation alert before issuing a refund. */
+"Are you sure you want to issue a refund? This can't be undone." = "¿Seguro que quieres solicitar un reembolso? Esta acción no se puede deshacer.";
+
+/* Alert message to confirm a user meant to log out. */
+"Are you sure you want to log out of the account %@?" = "¿Estás seguro que quieres salir de la cuenta %@?";
+
+/* Message on the alert when the user taps to delete a Product image */
+"Are you sure you want to remove this image?" = "¿Seguro que quieres eliminar esta imagen?";
+
+/* Add Product Attribute. Placeholder of cell presenting the title of the new attribute. */
+"Attribute name" = "Nombre del atributo";
+
+/* No comment provided by engineer. */
+"Authenticating" = "Autenticando";
+
+/* Accessibility label for the 2FA text field.
+   Placeholder for the 2FA code textfield. */
+"Authentication code" = "Código de autenticación";
+
+/* Popup title to ask for user credentials. */
+"Authentication required for host: %@" = "Se requiere autenticación para el host: %@";
+
+/* The plugin can not be manually updated or deactivated */
+"Auto-managed on this site" = "Gestión automática de este sitio";
+
+/* Subtitle of the cell in Product Price Settings > Schedule sale */
+"Automatically start and end a sale" = "Iniciar y finalizar una oferta automáticamente";
+
+/* A unit test string. It reads: Awaiting payment via <payment method title>.A payment method example is: 'Credit Card (Stripe)'
+   Awaiting payment via (payment method title) */
+"Awaiting payment via %@" = "Pago pendiente a través de %@";
+
+/* Alert button title - dismisses alert, which cancels the log out attempt
+   Back button title. */
+"Back" = "Volver";
+
+/* Title of a button to dismiss the survey complete screen */
+"Back to store" = "Volver a la tienda";
+
+/* Application's Background State */
+"Background" = "Fondo";
+
+/* Product backorders setting list selector navigation title
+   Title of the cell in Product Inventory Settings > Backorders */
+"Backorders" = "Pedidos de artículos sin existencias";
+
+/* VoiceOver accessibility value about a specific bar in the revenue chart.It reads: Bar number {bar number} {summary of bar}. */
+"Bar number %i, %@, " = "Número de la barra %1$i, %2$@, ";
+
+/* Begin fulfill order button title */
+"Begin Fulfillment" = "Iniciar cumplimiento";
+
+/* Section header title for billing address in billing information */
+"Billing Address" = "Dirección de facturación";
+
+/* Billing Information view Title */
+"Billing Information" = "Información de facturación";
+
+/* Accessibility label for block quote button on formatting toolbar. */
+"Block Quote" = "Bloquear cita";
+
+/* Accessibility label for bold button on formatting toolbar. */
+"Bold" = "Negrita";
+
+/* Title of the text field for editing the button text for an external/affiliate product */
+"Button Text" = "Texto del botón";
+
+/* Placeholder of the text field for editing the button text for an external/affiliate product */
+"Buy Product" = "Comprar producto";
+
+/* Legal disclaimer for logging in. The underscores _..._ denote underline. */
+"By continuing, you agree to our _Terms of Service_." = "Si continúas, aceptas nuestras _Condiciones del servicio_.";
+
+/* Legal disclaimer for signup buttons, the underscores _..._ denote underline */
+"By signing up, you agree to our _Terms of Service_." = "Al registrarte aceptas nuestros _Términos del servicio_.";
+
+/* Call phone number button title */
+"Call" = "Llamar";
+
+/* Error message format when capturing a unsupported media type with device camera */
+"Camera capture should not support media type: %@" = "La captura de cámara no debe admitir el tipo de archivo multimedia: %@";
+
+/* Title of an alert letting the user know */
+"Can Not Request Link" = "No se puede solicitar el enlace";
+
+/* Action title to cancel selecting products to add to a grouped product from search results
+   Add Product Category. Cancel button title in navbar. - Button title Cancel in Discard Changes Action Sheet - Button title Cancel in Downloadable File More Options Action Sheet - Button title Cancel in Downloadable Files More Options Action Sheet - Button title Cancel in Edit Product More Options Action Sheet - Button title. Tapping it cancels the login flow. - Cancel button label - Cancel button on the alert when the user is cancelling the action on changing product type - Cancel button on the alert when the user is cancelling the action on moving a product to the trash - Cancel button title in the issue refund screen - Cancel prompt for user information. - Cancel the action sheet - Cancel the shipping label more menu action sheet - Cancel the shipping label tracking more menu action sheet - Change order status screen - button title for closing the view - Dismiss button on the alert when the user taps to delete a Product image - Option to cancel the email app selection when logging in with magic links - The title for a button that dismisses the crash debug menu - The title of the button to cancel issuing a refund. */
+"Cancel" = "Cancelar";
+
+/* Title of the alert when there is an error creating a new product category */
+"Cannot Add Category" = "No se puede añadir la categoría";
+
+/* Title of the alert when there is an error adding new product tags. */
+"Cannot Add Tags" = "No se pueden añadir etiquetas";
+
+/* The title of the alert when there is an error removing the image from a Product Variation if WooCommerce <4.7
+   The title of the alert when there is an error updating the product */
+"Cannot update product" = "No se puede actualizar el producto";
+
+/* The title of the alert when there is an error uploading an image
+   Title of the alert when there is an error uploading image(s) */
+"Cannot upload image" = "No es posible cargar la imagen";
+
+/* Add Custom shipping carrier. Title of cell presenting the carrier name */
+"Carrier name" = "Nombre de la empresa de transporte";
+
+/* Catalog Visibility label in Product Settings
+   Product Catalog Visibility navigation title */
+"Catalog Visibility" = "Visibilidad del catálogo";
+
+/* shown in promotional screens during first launch */
+"Catch up with your favorite sites and join the conversation anywhere, any time." = "Ponte al día con tus sitios favoritos y únete a la conversación desde cualquier parte, en cualquier momento.";
+
+/* Edit product categories screen - Screen title
+   Title of the Categories row on Product main screen - Title of the product form bottom sheet action for editing categories. */
+"Categories" = "Categorías";
+
+/* Popup title for wrong SSL certificate. */
+"Certificate error" = "Error del certificado";
+
+/* Message title of bottom sheet for selecting a product type */
+"Change product type" = "Cambiar tipo de producto";
+
+/* Body of the alert when a user is changing the product type */
+"Changing the product type will modify some of the product data" = "Si cambias el tipo de producto, se modificarán algunos de los datos de producto";
+
+/* The message of the alert when there is an error in the URL of an external product */
+"Check that the URL entered is valid" = "Comprueba que la URL introducida es válida";
+
+/* Instruction text after a login Magic Link was requested. */
+"Check your email on this device, and tap the link in the email you receive from WordPress.com." = "Consulta tu correo electrónico en este dispositivo y toca el enlace del mensaje que recibas de WordPress.com.";
+
+/* Instructional text on how to open the email containing a magic link. */
+"Check your email on this device, and tap the link in the email you received from WordPress.com.\n\nNot seeing the email? Check your Spam or Junk Mail folder." = "Comprueba tu correo electrónico en este dispositivo y toca el enlace del correo electrónico que has recibido de WordPress.com.\n\n¿No ves el correo electrónico? Comprueba tu carpeta de correo basura o spam.";
+
+/* Alert title for check your email during logIn/signUp. */
+"Check your email!" = "Mira en tu correo electrónico.";
+
+/* Navigation title on the shipping label paper size selector screen */
+"Choose Paper Size" = "Choose Paper Size";
+
+/* Menu option for selecting media from the device's photo library. */
+"Choose from device" = "Elegir del dispositivo";
+
+/* Button title for clearing all filters for the list. */
+"Clear all" = "Borrar todo";
+
+/* Settings > Privacy Settings > collect info section. Label for the `Collect Information` toggle. */
+"Collect Information" = "Recopilar información";
+
+/* Accessibility hint, informing that a row can be tapped and an email composer view will appear. */
+"Composes a new email message to the billing customer." = "Redacta un nuevo mensaje de correo electrónico para el cliente de la facturación.";
+
+/* VoiceOver accessibility hint, informing the user that the button can be used to create a new order note. */
+"Composes a new order note." = "Redacta una nueva nota de pedido.";
+
+/* Link on the store picker when there are no stores available. Opens a webview about Jetpack setup. */
+"Connect your store with Jetpack" = "Conecta tu tienda con Jetpack";
+
+/* Title shown when a user logs in with Google but no matching WordPress.com account is found */
+"Connected But…" = "Conectado pero…";
+
+/* Store Picker's Section Title: Displayed when there's a single pre-selected Store. */
+"Connected Store" = "Tienda conectada";
+
+/* No comment provided by engineer. */
+"Connecting to WordPress.com" = "Conectando a WordPress.com";
+
+/* Section header title for contact details in billing information */
+"Contact Details" = "Datos de contacto";
+
+/* Contact Email title */
+"Contact Email" = "Correo electrónico de contacto";
+
+/* Contact Support title */
+"Contact Support" = "Contactar con el servicio de asistencia";
+
+/* Title of a button to contact support in the survey complete screen */
+"Contact us here" = "Ponte en contacto con nosotros aquí";
+
+/* The button title text when there is a next step for logging in or signing up.
+   Title of dismiss button presented when users attempt to log in without Jetpack installed or connected */
+"Continue" = "Continuar";
+
+/* Button title. Takes the user to the login with WordPress.com flow. */
+"Continue With WordPress.com" = "Acceder a WordPress.com";
+
+/* Part of a prompt suggesting that there is more content for the user to read. */
+"Continue reading" = "Continuar leyendo";
+
+/* Button title. Tapping begins log in using Apple. */
+"Continue with Apple" = "Seguir con Apple";
+
+/* Button title. Tapping begins log in using Google. */
+"Continue with Google" = "Seguir con Google";
+
+/* Button title. Takes the user to the login by email flow.
+   Button title. Tapping begins our normal log in process. */
+"Continue with WordPress.com" = "Seguir con WordPress.com";
+
+/* Shown while logging in with Apple and the app waits for the site creation process to complete. */
+"Continuing with Apple" = "Seguir con Apple";
+
+/* Copy address text button title — should be one word and as short as possible. */
+"Copy" = "Copiar";
+
+/* Copy tracking number button title */
+"Copy Tracking Number" = "Copiar número de seguimiento";
+
+/* Copy email address button title */
+"Copy email address" = "Copiar dirección de correo electrónico";
+
+/* Copy tracking number of a shipping label from the shipping label tracking more menu action sheet */
+"Copy tracking number" = "Copiar número de seguimiento";
+
+/* The title of the button for giving a negative feedback for the app. */
+"Could Be Better" = "Podría ser mejor";
+
+/* Message shown when site purchases API failed */
+"Could not check site purchases." = "No se han podido comprobar las compras del sitio.";
+
+/* Error message informing the user that there was a problem subscribing to a site or feed. */
+"Could not follow the site at the address specified." = "No se pudo seguir el sitio en la dirección especificada.";
+
+/* Error message informing the user that there was a problem unsubscribing to a site or feed. */
+"Could not unfollow the site at the address specified." = "No se pudo dejar de seguir el sitio en la dirección especificada.";
+
+/* Error message shown a URL points to a valid site but not a WordPress site. */
+"Couldn't connect to the WordPress site. There is no valid WordPress site at this address. Check the site address (URL) you entered." = "No se ha podido conectar con el sitio de WordPress. No hay ningún sitio de WordPress válido en esta dirección. Comprueba la dirección del sitio (URL) que has introducido.";
+
+/* Message to show to user when he tries to add a self-hosted site with RSD link present, but xmlrpc is missing. */
+"Couldn't connect. Required XML-RPC methods are missing on the server." = "No se ha podido conectar. Los métodos XML-RPC necesarios no están disponibles en el servidor.";
+
+/* Message to show to user when he tries to add a self-hosted site but the host returned a 403 error, meaning that the access to the /xmlrpc.php file is forbidden. */
+"Couldn't connect. We received a 403 error when trying to access your site's XMLRPC endpoint. The app needs that in order to communicate with your site. Contact your host to solve this problem." = "No se ha podido conectar. Hemos recibido un error 403 al intentar acceder al punto de conexión XMLRPC de tu sitio. La aplicación lo necesita para poder comunicarse con tu sitio. Ponte en contacto con tu proveedor de alojamiento para solucionar este problema.";
+
+/* Message to show to user when he tries to add a self-hosted site but the host returned a 405 error, meaning that the host is blocking POST requests on /xmlrpc.php file. */
+"Couldn't connect. Your host is blocking POST requests, and the app needs that in order to communicate with your site. Contact your host to solve this problem." = "No se pudo conectar. Tu alojamiento está bloqueando peticiones POST, y la aplicación lo necesita para poder comunicar con tu sitio. Contacta con tu alojamiento para resolver este problema.";
+
+/* Error message when tag loading failed */
+"Couldn't load tags." = "No se han podido cargar las etiquetas.";
+
+/* The title for a menu that helps debug crashes in production builds */
+"Crash Debug Menu" = "Menú de depuración de fallos";
+
+/* The title for a button that causes the app to deliberately crash for debugging purposes */
+"Crash Immediately" = "Fallo inmediato";
+
+/* The button title text for creating a new account. */
+"Create Account" = "Crear una cuenta";
+
+/* The title of the Work In Progress top banner on the Products tab when Products feature switch is enabled. */
+"Create products from the app!" = "¡Crea productos desde la aplicación!";
+
+/* My Store > Settings > Experimental features > Products */
+"Creating products" = "Creación de productos";
+
+/* Credit card payment method for shipping label. */
+"Credit card" = "Tarjeta de crédito";
+
+/* Cell title for Cross-sells products in Linked Products Settings screen */
+"Cross-sells" = "Ventas cruzadas";
+
+/* Navigation bar title for editing linked products for cross-sell products */
+"Cross-sells Products" = "Ventas cruzadas de productos";
+
+/* Cell title: the current date. */
+"Current" = "Actual";
+
+/* Name of the section for custom shipment tracking carriers */
+"Custom" = "Personalizado";
+
+/* Add custom shipping carrier. Content of cell titled Shipping Carrier
+   Placeholder name of a custom shipment tracking carrier - Title of button to add a custom tracking carrier if filtering the list yields no results. */
+"Custom Carrier" = "Empresa de transporte personalizada";
+
+/* Customer info section title */
+"Customer" = "Cliente";
+
+/* Section title for the customer's billing and shipping address */
+"Customer Information" = "Información del cliente";
+
+/* Customer note section title
+   Section title for a note from the customer */
+"Customer Provided Note" = "Nota proporcionada por el cliente";
+
+/* Add / Edit shipping carrier. Title of cell date shipped */
+"Date shipped" = "Fecha de envío";
+
+/* Action sheet option to sort products from the newest to the oldest */
+"Date: Newest to Oldest" = "Fecha: De nuevas a antiguas";
+
+/* Action sheet option to sort products from the oldest to the newest */
+"Date: Oldest to Newest" = "Fecha: De antiguas a nuevas";
+
+/* Statistical unit - a single day */
+"Day" = "Día";
+
+/* Plural of 'day' — a statistical unit */
+"Days" = "Días";
+
+/* Description of the default paragraph formatting style in the editor. */
+"Default" = "Por defecto";
+
+/* Accessibility hint for delete button in an individual Shipment Tracking in the order fulfillment screen
+   Button title Delete in Downloadable File Options Action Sheet - Button title Delete in Edit Product More Options Action Sheet */
+"Delete" = "Eliminar";
+
+/* Delete a Shipment Tracking
+   Delete tracking button title */
+"Delete Tracking" = "Eliminar seguimiento";
+
+/* Accessibility hint for Delete Shipment button in Order fulfillment screen */
+"Deletes a shipment's tracking information." = "Se elimina la información de seguimiento de un envío.";
+
+/* Placeholder in the Product description row on Product form screen. */
+"Describe your product" = "Describe tu producto";
+
+/* The navigation bar title of the Aztec editor screen.
+   Title in the Product description row on Product form screen when the description is non-empty. */
+"Description" = "Descripción";
+
+/* The row label to tap for a detailed product list */
+"Details" = "Detalles";
+
+/* Screen title: Details Order number. Parameters: %1$@ - order number */
+"Details Order #%1$@" = "Details Order #%1$@";
+
+/* Footer text in Product Menu order screen */
+"Determines the products positioning in the catalog. The lower the value of the number, the higher the item will be on the product list. You can also use negative values" = "Determina la posición de los productos en el catálogo. Cuanto más bajo sea el valor del número, más alta será la posición del artículo en la lista de productos. También puedes usar valores negativos";
+
+/* Format of 2 dimensions on the Shipping Settings row - dimension x dimension[unit] */
+"Dimensions: %1$@ x %2$@ %3$@" = "Dimensiones: %1$@ x %2$@%3$@";
+
+/* Format of all 3 dimensions on the Shipping Settings row - L x W x H[unit] */
+"Dimensions: %1$@ x %2$@ x %3$@ %4$@" = "Dimensiones: %1$@ x %2$@ x %3$@%4$@";
+
+/* Format of one dimension on the Shipping Settings row - dimension[unit] */
+"Dimensions: %1$@%2$@" = "Dimensiones: %1$@%2$@";
+
+/* Shown in a Product Variation cell if the variation is disabled */
+"Disabled" = "Desactivado";
+
+/* Alert button title - dismisses alert, which discard changes on Product Visibility screen */
+"Discard" = "Descartar";
+
+/* Button title Discard Changes in Discard Changes Action Sheet */
+"Discard changes" = "Descartar cambios";
+
+/* Discount label for payment view */
+"Discount" = "Descuento";
+
+/* A unit test string for a button title
+   Accessibility label for the transparent space above the login dialog which acts as a button to dismiss the dialog. - Accessibility label for the transparent space above the signup dialog which acts as a button to dismiss the dialog. - Add a note screen - button title for closing the view - Button title for dismissing filtering a list. - Dismiss button in store picker - Dismiss button title shown in alert warning users to upgrade to WC 3.5. - Dismiss button title shown in an alert displaying full purchase note text. - Dismiss the action sheet - Dismiss the media picking action sheet - Dismiss the shipment tracking action sheet - The title of the button to dismiss the banner in order details - The title of the button to dismiss the banner on the products tab */
+"Dismiss" = "Cancelar";
+
+/* Display label for the product's inventory backorders setting option */
+"Do not allow" = "No permitir";
+
+/* Body of the alert when a user is moving a product to the trash */
+"Do you want to move this product to the Trash?" = "¿Quieres mover este producto a la papelera?";
+
+/* Label for button to log in using your site address. The underscores _..._ denote underline */
+"Don't have an account? _Sign up_" = "¿No tienes una cuenta? _Regístrate_";
+
+/* Action title to select products to add to a grouped product from search results
+   Edit product categories screen - button title to apply categories selection - Edit product downloadable files screen - button title to apply changes to downloadable files */
+"Done" = "Listo";
+
+/* Link title to see instructions for printing a shipping label on an iOS device */
+"Don’t know how to print from your device?" = "¿No sabes cómo imprimir desde el dispositivo?";
+
+/* Title of button in order details > shipping label that shows the instructions on how to print a shipping label on the mobile device. */
+"Don’t know how to print from your phone?" = "¿No sabes cómo imprimir desde el teléfono?";
+
+/* WordPress.com (unmapped!) error. Parameters: %1$@ - code, %2$@ - message */
+"Dotcom Error: [%1$@] %2$@" = "Dotcom Error: [%1$@] %2$@";
+
+/* WordPress.com error thrown when the the request REST API url is invalid. */
+"Dotcom Invalid REST Route" = "La ruta Dotcom hacia REST no es válida";
+
+/* WordPress.com Missing Token */
+"Dotcom Missing Token" = "Token Dotcom perdido";
+
+/* WordPress.com error thrown when the user has no permission to view site stats. */
+"Dotcom No Stats Permission" = "Sin permiso para ver estadísticas de Dotcom";
+
+/* WordPress.com Request Failure */
+"Dotcom Request Failed" = "La solicitud de Dotcom ha fallado";
+
+/* WordPress.com Error thrown when the response body is empty */
+"Dotcom Response Empty" = "Respuesta Dotcom vacía";
+
+/* WordPress.com error thrown when the Jetpack site stats module is disabled. */
+"Dotcom Stats Module Disabled" = "El módulo de estadísticas de Dotcom está desactivado";
+
+/* WordPress.com Invalid Token */
+"Dotcom Token Invalid" = "Token Dotcom no válido";
+
+/* Voiceover accessibility hint informing the user they can double tap a modal alert to dismiss it */
+"Double tap to dismiss" = "Pulsa dos veces para descartar";
+
+/* VoiceOver accessibility hint, informing the user that double-tapping will toggle the switch off and on. */
+"Double tap to toggle setting." = "Toca dos veces para activar o desactivar la opción.";
+
+/* Button title Download Settings in Downloadable Files More Options Action Sheet
+   Download file settings navigation title */
+"Download Settings" = "Ajustes de descarga";
+
+/* Button title Download Settings in Downloadable Files More Options Action Sheet
+   Download file settings navigation title */
+"Download Settings" = "Download Settings";
+
+/* Title of the cell in Product Download Expiration > Download expiration */
+"Download expiration" = "Download expiration";
+
+/* Title of the cell in Product Download Expiration > Download expiration */
+"Download expiration" = "Vencimiento de la descarga";
+
+/* Title of the cell in Product Download limit > Download limit */
+"Download limit" = "Límite de descargas";
+
+/* Title of the cell in Product Download limit > Download limit */
+"Download limit" = "Download limit";
+
+/* Edit product downloadable files screen - Screen title */
+"Downloadable Files" = "Downloadable Files";
+
+/* Edit product downloadable files screen - Screen title */
+"Downloadable Files" = "Archivos descargables";
+
+/* Downloadable Product label in Product Settings */
+"Downloadable Product" = "Downloadable Product";
+
+/* Downloadable Product label in Product Settings */
+"Downloadable Product" = "Producto descargable";
+
+/* Title of the Downloadable Files row on Product main screen */
+"Downloadable files" = "Downloadable files";
+
+/* Title of the Downloadable Files row on Product main screen */
+"Downloadable files" = "Archivos descargables";
+
+/* Display label for the product's draft status */
+"Draft" = "Borrador";
+
+/* Subtitle of the product form bottom sheet action for editing SKU. */
+"Easily identify your products with unique codes" = "Identifica fácilmente tus productos con códigos únicos";
+
+/* Edit Products button inside the Linked Products screen. */
+"Edit Products" = "Editar productos";
+
+/* Email address text field placeholder */
+"Email" = "Correo electrónico";
+
+/* Accessibility label for the email address text field.
+   Placeholder for a textfield. The user may enter their email address. - Placeholder for the email address textfield. */
+"Email address" = "Dirección de correo electrónico";
+
+/* Label for yes/no switch - emailing the note to customer. */
+"Email note to customer" = "Enviar la nota por correo electrónico al cliente";
+
+/* No comment provided by engineer. */
+"Email note to customer %@" = "Enviar la nota por correo electrónico al cliente %@";
+
+/* Accessibility label that lets the user know the billing customer's email address */
+"Email: %@" = "Correo electrónico: %@";
+
+/* Accessibility text for Unit Input cell */
+"Empty" = "Vacio";
+
+/* Message to show to user when he tries to add a self-hosted site that is an empty URL. */
+"Empty URL" = "URL vacía";
+
+/* Enable Reviews label in Product Settings */
+"Enable Reviews" = "Activar las valoraciones";
+
+/* Title of the status row on Product Variation main screen to enable/disable a variation */
+"Enabled" = "Activado";
+
+/* The title used when asking the user for feedback for the app. */
+"Enjoying the WooCommerce app?" = "¿Te gusta la aplicación de WooCommerce?";
+
+/* Step 3 of shipping label printing instructions screen. The content inside two double asterisks **...** denote bolded text. */
+"Ensure that your **printer firmware is up to date**. See your printer documentation for instructions on updating." = "Ensure that your **printer firmware is up to date**. See your printer documentation for instructions on updating.";
+
+/* Action button linking to instructions for enter another store.Presented when logging in with a site address that is not a WordPress site */
+"Enter Another Store" = "Introduce otra tienda";
+
+/* Placeholder of the text field for editing the external URL for an external/affiliate product */
+"Enter URL" = "Introducir URL";
+
+/* Action button linking to instructions for enter another store.Presented when logging in with an email address that is not a WordPress.com account
+   Button title. Takes the user to the login by store address flow. */
+"Enter Your Store Address" = "Introduce la dirección de tu tienda";
+
+/* Add custom shipping carrier. Placeholder of cell presenting carrier name */
+"Enter carrier name" = "Introduce el nombre de la empresa de transporte";
+
+/* Title of the downloadable file bottom sheet action for adding file from an URL. */
+"Enter file URL" = "Introduce la URL del archivo";
+
+/* Enter password placeholder in Product Visibility */
+"Enter password" = "Introducir contraseña";
+
+/* Instruction text on the login's site addresss screen.
+   Label for button to log in using your site address. */
+"Enter the address of the WordPress site you'd like to connect." = "Introduce la dirección del sitio de WordPress que deseas conectar.";
+
+/* Sign in instructions for logging in with a URL. */
+"Enter the address of your WooCommerce store you'd like to connect." = "Introduce la dirección de la tienda de WooCommerce que quieres conectar.";
+
+/* Footer text for editing product external URL */
+"Enter the external URL to the product." = "Introduce la URL externa al producto.";
+
+/* Footer text for Download Expiration */
+"Enter the number of days before a download link expires, or leave blank if never it expires" = "Introduce el número de días antes de que expire un enlace de descarga, o déjalo en blanco si no caduca";
+
+/* Footer text for Download Expiration */
+"Enter the number of days before a download link expires, or leave blank if never it expires" = "Enter the number of days before a download link expires, or leave blank if never it expires";
+
+/* Footer text for Downloadable Limit */
+"Enter the number of time file can be downloaded or leave blank for unlimited downloads" = "Introduce el número de veces que se puede descargar un archivo, déjalo en blanco para no limitar las descargas";
+
+/* Footer text for Downloadable Limit */
+"Enter the number of time file can be downloaded or leave blank for unlimited downloads" = "Enter the number of time file can be downloaded or leave blank for unlimited downloads";
+
+/* Instructional text shown when requesting the user's password for login. */
+"Enter the password for your WordPress.com account." = "Introduce la contraseña de tu cuenta en WordPress.com.";
+
+/* Add custom shipping carrier. Placeholder of cell presenting carrier link */
+"Enter tracking link" = "Introducir enlace de seguimiento";
+
+/* Add custom shipping carrier. Placeholder of cell presenting tracking number */
+"Enter tracking number" = "Introducir número de seguimiento";
+
+/* Enter your account information for {site url}. Asks the user to enter a username and password for their self-hosted site. */
+"Enter your account information for %@." = "Introduce la información de tu cuenta de %@.";
+
+/* Instruction text on the initial email address entry screen. */
+"Enter your email address to log in or create a WordPress.com account." = "Escribe tu dirección de correo electrónico para acceder o crea una cuenta de WordPress.com.";
+
+/* Button title. Takes the user to the login by site address flow. */
+"Enter your existing site address" = "Introduce la dirección de tu sitio existente";
+
+/* Title of a button on the magic link screen.
+   Title of a button. */
+"Enter your password instead." = "Introduce tu contraseña.";
+
+/* Alert title when there is an error requesting shipping label document for reprinting */
+"Error previewing shipping label" = "Error previewing shipping label";
+
+/* Experimental features navigation title
+   Navigates to experimental features screen */
+"Experimental Features" = "Funciones experimentales";
+
+/* Action sheet option when the user wants to change the Product type to external product */
+"External product" = "Producto externo";
+
+/* Display label for affiliate product type. */
+"External\/Affiliate" = "Externo\/Afiliado";
+
+/* An error message shown when failing to retrieve information to present a view for a review push notification. */
+"Failed to retrieve the review notification details." = "No se han podido recuperar los detalles de la notificación de reseña.";
+
+/* Error message to show when wrong URL format is used to access the REST API */
+"Failed to serialize request to the REST API." = "No se ha podido serializar la solicitud a la API REST.";
+
+/* Option to select the Fastmail app when logging in with magic links */
+"Fastmail" = "Fastmail";
+
+/* Featured Product switch in Product Catalog Visibility */
+"Featured Product" = "Producto destacado";
+
+/* Title in the navigation bar when the survey is completed */
+"Feedback Sent!" = "¡Comentario enviado!";
+
+/* Placeholder of the cell text field in Product Downloadable File
+   Title of the cell in Product Downloadable File > File Name */
+"File Name" = "Nombre del archivo";
+
+/* Placeholder of the cell text field in Product Downloadable File
+   Title of the cell in Product Downloadable File > File Name */
+"File Name" = "File Name";
+
+/* Placeholder of the cell text field in Product Downloadable File URL
+   Title of the cell in Product Downloadable File URL > File URL */
+"File URL" = "URL del archivo";
+
+/* Placeholder of the cell text field in Product Downloadable File URL
+   Title of the cell in Product Downloadable File URL > File URL */
+"File URL" = "File URL";
+
+/* The password manager button in login pages. The button opens a dialog showing which password manager to use (e.g. 1Password, LastPass). */
+"Fill with password manager" = "Rellenar con el gestor de contraseñas";
+
+/* Title of the toolbar button to filter products by different attributes.
+   Title of the toolbar button to filter products without any filters applied. */
+"Filter" = "Filtro";
+
+/* Title of the toolbar button to filter products with filters applied. */
+"Filter (%ld)" = "Filtrar (%ld)";
+
+/* Navigation bar title format for filtering a list of products without filters applied. */
+"Filters" = "Filtros";
+
+/* Navigation bar title format for filtering a list of products with filters applied. */
+"Filters (%ld)" = "Filtros (%ld)";
+
+/* The hint button's title text to help users find their site address. */
+"Find your site address" = "Encuentra la dirección de tu sitio";
+
+/* The hint button's title text to help users find their store address. */
+"Find your store address" = "Encuentra la dirección de tu tienda";
+
+/* Shown in the prologue carousel (promotional screens) during first launch. */
+"Follow your favorite sites and discover new reads." = "Sigue a tus sitios preferidos y descubre nuevas lecturas.";
+
+/* User role badge */
+"Follower" = "Seguidor";
+
+/* Title of the cell in Product Price Settings > Schedule sale from a certain date */
+"From" = "Desde";
+
+/* Title of the downloadable file bottom sheet action for adding file from WordPress Media Library. */
+"From WordPress Media Library" = "Desde la Biblioteca de medios de WordPress";
+
+/* Title of the downloadable file bottom sheet action for adding file from device. */
+"From device" = "Desde el dispositivo";
+
+/* Order Fulfillment Title. Parameters: %1$@ - order number */
+"Fulfill Order #%1$@" = "Fulfill Order #%1$@";
+
+/* Description for Top Performers section of My Store tab. */
+"Gain insights into how products are performing on your store" = "Obtén detalles sobre el rendimiento de los productos en tu tienda";
+
+/* View title for initial auth views. */
+"Get Started" = "Primeros pasos";
+
+/* The button title for a secondary call-to-action button. When the user wants to try sending a magic link instead of entering a password. */
+"Get a login link by email" = "Obtener un enlace de acceso por correo electrónico";
+
+/* Subtitle for Help Center */
+"Get answers to questions you have" = "Obtén respuestas a todas tus preguntas";
+
+/* Alerts the user that wpcom account information is being retrieved. */
+"Getting account information" = "Recuperando la información de la cuenta";
+
+/* The title of the button to give feedback about products beta features on the banner on the products tab
+   The title of the button to give feedback about shipping labels features on the banner in order details - Title on the navigation bar for the products feedback survey */
+"Give feedback" = "Da tu opinión";
+
+/* Option to select the Gmail app when logging in with magic links */
+"Gmail" = "Gmail";
+
+/* Message shown on screen after the Google sign up process failed. */
+"Google sign up failed." = "Fallo en el registro en Google.";
+
+/* Display label for grouped product type. */
+"Grouped" = "Agrupado";
+
+/* Navigation bar title for editing linked products for a grouped product */
+"Grouped Products" = "Productos agrupados";
+
+/* Action sheet option when the user wants to change the Product type to grouped product */
+"Grouped product" = "Producto agrupado";
+
+/* Title for editing grouped products row on Product main screen for a grouped product */
+"Grouped products" = "Productos agrupados";
+
+/* In Order Details, the name of the billed person when there are no name and last name.
+   In Order List, the name of the billed person when there are no first and last name. */
+"Guest" = "Invitado";
+
+/* My Store > Settings > Help & Support section title */
+"HOW CAN WE HELP?" = "¿CÓMO PODEMOS AYUDARTE?";
+
+/* Accessibility label for HTML button on formatting toolbar.
+   HTML Attachment Label */
+"HTML" = "HTML";
+
+/* Post HTML content */
+"HTML Content" = "Contenido HTML";
+
+/* Accessibility label for selecting h1 paragraph style button on the formatting toolbar. */
+"Header 1" = "Encabezado 1";
+
+/* Accessibility label for selecting h2 paragraph style button on the formatting toolbar. */
+"Header 2" = "Encabezado 2";
+
+/* Accessibility label for selecting h3 paragraph style button on the formatting toolbar. */
+"Header 3" = "Encabezado 3";
+
+/* Accessibility label for selecting h4 paragraph style button on the formatting toolbar. */
+"Header 4" = "Encabezado 4";
+
+/* Accessibility label for selecting h5 paragraph style button on the formatting toolbar. */
+"Header 5" = "Encabezado 5";
+
+/* Accessibility label for selecting h6 paragraph style button on the formatting toolbar. */
+"Header 6" = "Encabezado 6";
+
+/* H1 Aztec Style */
+"Heading 1" = "Encabezado 1";
+
+/* H2 Aztec Style */
+"Heading 2" = "Encabezado 2";
+
+/* H3 Aztec Style */
+"Heading 3" = "Encabezado 3";
+
+/* H4 Aztec Style */
+"Heading 4" = "Encabezado 4";
+
+/* H5 Aztec Style */
+"Heading 5" = "Encabezado 5";
+
+/* H6 Aztec Style */
+"Heading 6" = "Encabezado 6";
+
+/* Title of the cell in Product Shipping Settings > Height */
+"Height" = "Altura";
+
+/* Help and Support navigation title
+   Help button - Help button on store picker screen. */
+"Help" = "Ayuda";
+
+/* Contact Support Action */
+"Help & Support" = "Ayuda y soporte";
+
+/* Browse our help documentation website title */
+"Help Center" = "Centro de ayuda";
+
+/* My Store > Settings > Privacy settings section */
+"Help Improve The App" = "Ayuda a mejorar la aplicación";
+
+/* Accessibility value if login page's password field is hiding the password (i.e. with asterisks).
+   Display label for the product's catalog visibility */
+"Hidden" = "Oculto";
+
+/* Title on the navigation bar for the in-app feedback survey */
+"How can we improve?" = "¿Cómo podemos mejorar?";
+
+/* The title of the button for giving a positive feedback for the app. */
+"I Like It" = "Me gusta";
+
+/* Detail label for yes/no switch. */
+"If disabled the note will be private" = "Si se desactiva, la nota será privada";
+
+/* Header text when reprinting a shipping label */
+"If there was a printing error when you purchased the label, you can print it again." = "Si hay un problema de impresión cuando compres la etiqueta, puedes imprimirla de nuevo.";
+
+/* Displayed during the Login flow, whenever the user has no woo stores associated. */
+"If you already have a store, you’ll need to install the free Jetpack plugin and connect it to your WordPress.com account." = "Si ya tienes una tienda, tendrás que instalar el plugin gratuito de Jetpack y conectarlo a tu cuenta de WordPress.com.";
+
+/* Info text when reprinting a shipping label */
+"If you already used the label in a package, printing and using it again is a violation of our terms of service" = "Si ya has usado la etiqueta en un paquete, imprimirla y usarla de nuevo es una infracción de nuestros términos y condiciones.";
+
+/* Step 4 of shipping label printing instructions screen. The content inside two double asterisks **...** denote bolded text. */
+"If you are still experiencing issues printing from your phone, you can save your label as PDF and **send it by email** to print it from another device." = "If you are still experiencing issues printing from your phone, you can save your label as PDF and **send it by email** to print it from another device.";
+
+/* Legal disclaimer for signing up. The underscores _..._ denote underline. */
+"If you continue with Apple and don't already have a WordPress.com account, you are creating an account and you agree to our _Terms of Service_." = "If you continue with Apple and don't already have a WordPress.com account, you are creating an account and you agree to our _Terms of Service_.";
+
+/* Legal disclaimer for signing up. The underscores _..._ denote underline. */
+"If you continue with Apple or Google and don't already have a WordPress.com account, you are creating an account and you agree to our _Terms of Service_." = "Si continuas con Apple o Google y aún no tienes ninguna cuenta de WordPress.com, crearás una cuenta, lo que significa que aceptas nuestras _condiciones del servicio_.";
+
+/* Display label for the product's inventory stock status
+   Label about product's inventory stock status shown on Products tab */
+"In stock" = "Hay existencias";
+
+/* Long descriptions of alert informing users of what email they can use to sign in.Presented when users attempt to log in with an email that does not match a WP.com account */
+"In your site admin you can find the email you used to connect to WordPress.com from the Jetpack Dashboard under Connections > Account Connection" = "En la sección de administración de tu sitio encontrarás la dirección de correo electrónico que usaste para conectar WordPress.com desde el Escritorio de Jetpack, en Conexiones > Conexión de la cuenta";
+
+/* Application's Inactive State */
+"Inactive" = "Inactivo";
+
+/* The plugin is not active on the site and has not enabled automatic updates */
+"Inactive, Autoupdates off" = "Inactivo, actualizaciones automáticas inactivas";
+
+/* The plugin is not active on the site and has enabled automatic updates */
+"Inactive, Autoupdates on" = "Inactivo, actualizaciones automáticas activas";
+
+/* Describes a standard *.wordpress.com site domain */
+"Included with Site" = "Incluido con el sitio";
+
+/* An error message shown when a user signed in with incorrect credentials. */
+"Incorrect username or password. Please try entering your login details again." = "El nombre de usuario o la contraseña son incorrectos. Introduce de nuevo tus datos de acceso.";
+
+/* Subtitle of the product form bottom sheet action for linked products. */
+"Increase sales with upsells and cross-sells" = "Aumenta las ventas con las ventas dirigidas y cruzadas";
+
+/* Label action for inserting a link on the editor */
+"Insert" = "Insertar";
+
+/* Accessibility label for insert horizontal ruler button on formatting toolbar. */
+"Insert Horizontal Ruler" = "Insertar una regla horizontal";
+
+/* Accessibility label for insert link button on formatting toolbar. */
+"Insert Link" = "Insertar enlace";
+
+/* The title of the alert when there is an error updating the product SKU */
+"Invalid Product SKU" = "SKU de producto no válido";
+
+/* No comment provided by engineer. */
+"Invalid Site Address" = "Dirección del sitio inválida";
+
+/* No comment provided by engineer. */
+"Invalid Site Title" = "Título del sitio inválido";
+
+/* Message to show to user when he tries to add a self-hosted site that isn't HTTP or HTTPS. */
+"Invalid URL scheme inserted, only HTTP and HTTPS are supported." = "El esquema de URL que se ha insertado no es válido; solo se admiten los protocolos HTTP y HTTPS.";
+
+/* Message to show to user when he tries to add a self-hosted site that isn't a valid URL. */
+"Invalid URL, please check if you wrote a valid site address." = "URL no válida, por favor comprueba si has escrito una dirección de sitio válida.";
+
+/* Error message generated when announcement service is unable to return a valid endpoint. */
+"Invalid endpoint" = "Variable no válida";
+
+/* No comment provided by engineer. */
+"Invalid username" = "Nombre de usuario inválido";
+
+/* Product Inventory Settings navigation title
+   Title of the Inventory Settings row on Product main screen - Title of the product form bottom sheet action for editing inventory settings. */
+"Inventory" = "Inventario";
+
+/* Text on the button that starts a new refund process */
+"Issue Refund" = "Emitir reembolso";
+
+/* Text of the screen that is displayed while the refund is being created. */
+"Issuing Refund..." = "Se está emitiendo el reembolso...";
+
+/* Message explaining that an email is not associated with a WordPress.com account. Presented when logging in with an email address that is not a WordPress.com account */
+"It looks like this email isn't associated with a WordPress.com account." = "Parece que este correo electrónico no está asociado a ninguna cuenta de WordPress.com.";
+
+/* An error message shown during log in when the username or password is incorrect. */
+"It looks like this username\/password isn't associated with this site." = "Parece que este usuario\/contraseña no está asociado con este sitio.";
+
+/* An error message shown when a wpcom user provides the wrong password. */
+"It seems like you've entered an incorrect password. Want to give it another try?" = "Parece que has introducido una contraseña incorrecta ¿Quieres intentarlo de nuevo?";
+
+/* Accessibility label for italic button on formatting toolbar. */
+"Italic" = "Cursiva";
+
+/* The info of the Work In Progress top banner on the Products tab when Products feature switch is enabled. */
+"It’s now possible to create simple, grouped \nand external products on the go from the Woo app. Not ready yet? Save them as draft!" = "Ahora es posible crear productos sencillos, agrupados y \nexternos sobre la marcha desde la aplicación Woo. ¿No estás listo aún? ¡Guarda los cambios en un borrador!";
+
+/* Long description of what Jetpack is. Presented when users attempt to log in without Jetpack installed or connected */
+"Jetpack is a free WordPress plugin that connects your store with tools needed to give you the best mobile experience, including push notifications and stats" = "Jetpack es un plugin gratuito de WordPress que conecta tu tienda con las herramientas necesarias para ofrecer la mejor experiencia para móviles, como notificaciones push y estadísticas";
+
+/* Alert button title - which keeps the user on the Product Visibility screen */
+"Keep Editing" = "Continuar con la edición";
+
+/* Information text when the survey is completed */
+"Keep in mind that this is not a support ticket and we won’t be able to address individual feedback" = "Ten en cuenta que este no es un ticket de soporte y no podremos enviar comentarios individuales.";
+
+/* Title of label paper size option for printing a shipping label */
+"Label (4 x 6 in)" = "Etiqueta (4\" x 6\")";
+
+/* Navigation bar title of shipping label paper size options screen */
+"Label Format Options" = "Label Format Options";
+
+/* Last 24 hours section header */
+"Last 24 hours" = "Últimas 24 horas";
+
+/* Last 7 days section header */
+"Last 7 days" = "Últimos 7 días";
+
+/* Opens an internal library called Wormholy. Not visible to users. */
+"Launch Wormholy debug" = "Iniciar la depuración con Wormholy";
+
+/* Settings > Privacy Settings. A text link to the cookie policy.
+   Title of button shown in the Orders → All Orders tab if the list is empty. */
+"Learn more" = "Saber más";
+
+/* Title of button to learn more presented when users attempt to log in without Jetpack installed or connected */
+"Learn more about Jetpack" = "Más información acerca de Jetpack";
+
+/* Title of legal paper size option for printing a shipping label */
+"Legal (8.5 x 14 in)" = "Legal (8,5\" x 14\")";
+
+/* Title of the cell in Product Shipping Settings > Length */
+"Length" = "Longitud";
+
+/* Title of letter paper size option for printing a shipping label */
+"Letter (8.5 x 11 in)" = "Carta (8,5\" x 11\")";
+
+/* Licenses (information page title) */
+"Licenses" = "Licencias";
+
+/* Title of the cell in Product Inventory Settings > Limit one per order */
+"Limit one per order" = "Límite de uno por pedido";
+
+/* Message to show when a request for a WP.com API endpoint is throttled */
+"Limit reached. You can try again in 1 minute. Trying again before that will only increase the time you have to wait before the ban is lifted. If you think this is in error, contact support." = "Límite alcanzado. Puedes intentarlo de nuevo en 1 minuto. Intentarlo antes sólo incrementará el tiempo de espera. Si piensas que esto es un error, contacta con el soporte.";
+
+/* Title for screen in editor that allows to configure link options */
+"Link Settings" = "Configuración del enlace";
+
+/* Label for the text of a link in the editor
+   Navigation bar title for editing the text of a text link */
+"Link Text" = "Texto del enlace";
+
+/* Description of the Action sheet option when the user wants to change the Product type to external product */
+"Link a product to an external website" = "Vincula un producto a un sitio web externo";
+
+/* Linked Products Settings navigation title */
+"Linked Products" = "Productos relacionados";
+
+/* Title of the Linked Products row on Product main screen
+   Title of the product form bottom sheet action for editing linked products. */
+"Linked products" = "Productos relacionados";
+
+/* VoiceOver accessibility hint, informing the user about the image section header of a product in product detail screen. */
+"List of images of the product" = "Lista de imágenes del producto";
+
+/* Displayed when an Order is being retrieved */
+"Loading Order" = "Cargando el pedido";
+
+/* Displayed when an Product is being retrieved */
+"Loading Product" = "Cargando producto";
+
+/* Loading tags in Product Tags screen */
+"Loading..." = "Cargando...";
+
+/* Button title.  Tapping takes the user to the login form.
+   Log In button label. - View title during the log in process. */
+"Log In" = "Acceder";
+
+/* Action button that will restart the login flow.Presented when logging in with a site address that does not have a valid Jetpack installation
+   Action button that will restart the login flow.Presented when logging in with an email address that does not match a WordPress.com account */
+"Log In With Another Account" = "Acceder con otra cuenta";
+
+/* Alert button title - confirms and logs out the user
+   Log out button title */
+"Log Out" = "Salir";
+
+/* Explains that the files are sorted by LIFO date: most recent day listed first. */
+"Log files by created date" = "Archivos de registro por fecha de creación";
+
+/* A generic error message for a failed log in. */
+"Log in failed. Please try again." = "Acceso fallido. Inténtalo otra vez.";
+
+/* Instruction text on the login's email address screen. */
+"Log in to the WordPress.com account you used to connect Jetpack." = "Accede a la cuenta de WordPress.com que utilizaste para conectar a Jetpack.";
+
+/* Instruction text on the login's email address screen. */
+"Log in to your WordPress.com account with your email address." = "Accede a tu cuenta de WordPress.com con tu dirección de correo electrónico.";
+
+/* Sign in instructions on the 'log in using email' screen.
+   Sign in instructions on the 'log in using WordPress.com account' screen. */
+"Log in with your WordPress.com account email address to manage your WooCommerce stores." = "Accede con la dirección de correo electrónico de tu cuenta de WordPress.com para gestionar tus tiendas de WooCommerce.";
+
+/* Sign in instructions for logging in with a username and password. */
+"Log in with your WordPress.com account to manage your WooCommerce stores." = "Accede con tu cuenta de WordPress.com para gestionar tus tiendas de WooCommerce.";
+
+/* Instructions on the WordPress.com username / password log in form. */
+"Log in with your WordPress.com username and password." = "Accede con tu nombre de usuario de WordPress.com y tu contraseña.";
+
+/* Title of a button. */
+"Lost your password?" = "¿Has perdido tu contraseña?";
+
+/* It reads 'Made with love by Automattic. We’re hiring!'. Place \'We’re hiring!' between `<a>` and `</a>` */
+"Made with love by Automattic. <a href=\"https:\/\/automattic.com\/work-with-us\/\">We’re hiring!<\/a>" = "Con mucho cariño, por la gente de Automattic. <a href=\"https:\/\/automattic.com\/work-with-us\/\">¡Buscamos personal!<\/a>";
+
+/* Option to select the Apple Mail app when logging in with magic links */
+"Mail (Default)" = "Mail (Por defecto)";
+
+/* Text that explains how to update VC to get the latest stats */
+"Make sure you are running the latest version of WooCommerce on your site and that you have WooCommerce Admin activated." = "Asegúrate de estar ejecutando la última versión de WooCommerce en tu sitio web y de haber activado WooCommerce Admin.";
+
+/* Subtitle of the product form bottom sheet action for editing tags. */
+"Make your products easier to find with tags" = "Utiliza las etiquetas para que tus productos sean más fáciles de encontrar";
+
+/* Login Prologue Legend */
+"Manage orders, track sales and monitor store activity with real-time alerts." = "Gestiona pedidos, controla las ventas y supervisa la actividad de la tienda con alertas en tiempo real.";
+
+/* Title of the cell in Product Inventory Settings > Manage stock */
+"Manage stock" = "Gestionar inventario";
+
+/* shown in promotional screens during first launch */
+"Manage your Jetpack-powered site on the go — you've got WordPress in your pocket." = "Gestiona tu sitio con Jetpack instalado sobre la marcha - tienes WordPress en tu bolsillo.";
+
+/* Section name for manual offsets in time zone selector */
+"Manual Offsets" = "Compensaciones manuales";
+
+/* In Refund Confirmation, The title shown to the user to inform them that they have to issue the refund manually. The %1$@ is the payment method like “Stripe”. */
+"Manual Refund via %1$@" = "Reembolso manual a través de %1$@";
+
+/* In Refund Confirmation, The title shown to the user to inform them that they have to issue the refund manually. The %1$@ is the payment method like “Stripe”. */
+"Manual Refund via %1$@" = "Manual Refund via %1$@";
+
+/* No comment provided by engineer. */
+"Manual Refund via Stripe" = "Reembolso manual a través de Stripe";
+
+/* Describes a domain that was mapped to WordPress.com, but registered elsewhere */
+"Mapped Domain" = "Dominio mapeado";
+
+/* Accessibility label for the Mark All Reviews as Read Button */
+"Mark All as Read" = "Marcar todo como leído";
+
+/* Fulfill Order Action Button */
+"Mark Order Complete" = "Marcar el pedido como completado";
+
+/* VoiceOver accessibility hint for the Mark All Reviews as Read Action */
+"Marks Every Review as Read" = "Marca todas las reseñas como leídas";
+
+/* Error message to show to users when trying to upload a media object with no local file associated */
+"Media doesn't have an associated file to upload." = "Los medios no están asociados a un archivo a subir.";
+
+/* Menu order label in Product Settings
+   Product Menu Order navigation title */
+"Menu Order" = "Orden del menú";
+
+/* Placeholder in the Product Menu Order row on Edit Product Menu Order screen. */
+"Menu order" = "Orden del menú";
+
+/* Message phone number button title */
+"Message" = "Mensaje";
+
+/* Option to select the Microsft Outlook app when logging in with magic links */
+"Microsoft Outlook" = "Microsoft Outlook";
+
+/* VoiceOver accessibility value, informs the user about the Y-axis min/max values. It reads: Minimum value {value}, maximum value {value}. */
+"Minimum value %@, maximum value %@" = "Valor mínimo: %1$@. Valor máximo: %2$@.";
+
+/* Statistical unit - a single week */
+"Month" = "Mes";
+
+/* Plural of 'month' — a statistical unit */
+"Months" = "Meses";
+
+/* Accessibility hint for more button in an individual Shipment Tracking in the order details screen
+   Accessibility label for the More button on formatting toolbar. */
+"More" = "Más";
+
+/* Title of the More Options section on Product Settings screen */
+"More Options" = "Más opciones";
+
+/* Accessibility label for the Edit Product More Options action sheet */
+"More options" = "Más opciones";
+
+/* Confirmation button on the alert when the user is moving a product to the trash */
+"Move to Trash" = "Mover a la papelera";
+
+/* Spam Action Spoken hint. */
+"Moves a comment to Spam" = "Traslada un comentario a spam";
+
+/* Trash Action Spoken hint */
+"Moves the comment to Trash" = "Traslada el comentario a la papelera";
+
+/* My Tickets title */
+"My Tickets" = "Mis tickets";
+
+/* My Store Notice Title for loading error
+   Title of the bottom tab item that presents the user's store dashboard, and default title for the store dashboard */
+"My store" = "Mi tienda";
+
+/* Name text field placeholder */
+"Name" = "Nombre";
+
+/* VoiceOver accessibility hint, informing the user the button can be used to navigate to the Settings screen. */
+"Navigates to Settings." = "Accede a Configuración.";
+
+/* Button linking to webview that explains what Jetpack isPresented when logging in with a site address that does not have a valid Jetpack installation */
+"Need help finding the connected email?" = "¿Necesitas ayuda para saber la dirección de correo electrónico que conectaste?";
+
+/* A button title. */
+"Need help finding your site address?" = "¿Necesitas ayuda para encontrar la dirección de tu sitio?";
+
+/* Takes the user to get help */
+"Need help?" = "¿Necesitas ayuda?";
+
+/* Title of button to learn more presented when users attempt to log in with an email address that does not match a WP.com account
+   Title of the more help button on alert helping users understand their site address */
+"Need more help?" = "¿Necesitas más ayuda?";
+
+/* Text preceding the Contact Us button in the survey completed screen */
+"Need some help?" = "¿Necesitas ayuda?";
+
+/* The title for the net amount paid cell */
+"Net" = "Red";
+
+/* Next nav bar button title in Add Product Attribute Options screen
+   Next nav bar button title in Add Product Attribute screen - Title of a button. - Title of a button. The text should be capitalized. - Title of the next button in the issue refund screen */
+"Next" = "Siguiente";
+
+/* Empty Product Reviews List Message */
+"No Reviews Yet for this Product!" = "¡Aún no hay reseñas de este producto!";
+
+/* Empty Reviews List Message */
+"No Reviews Yet!" = "Aún no hay reseñas.";
+
+/* Default text for Top Performers section when no data exists for a given period. */
+"No activity this period" = "Sin actividad durante este periodo";
+
+/* Order details > customer info > billing information. This is where the address would normally display.
+   Order details > customer info > shipping details. This is where the address would normally display. */
+"No address specified." = "No se ha indicado ninguna dirección.";
+
+/* Text displayed when no data is available for revenue chart. */
+"No data available" = "No hay datos disponibles.";
+
+/* Placeholder of the cell text field in Download expiration */
+"No expiration" = "No expiration";
+
+/* Placeholder of the cell text field in Download expiration */
+"No expiration" = "Sin vencimiento";
+
+/* Placeholder for empty Downloadable Files row on Product main screen */
+"No files yet" = "No files yet";
+
+/* Placeholder for empty Downloadable Files row on Product main screen */
+"No files yet" = "No hay archivos todavía";
+
+/* Placeholder text shown when there are no images for the WordPress Media Library yet */
+"No images yet" = "Todavía no hay imágenes";
+
+/* Placeholder of the cell text field in Download limit */
+"No limit" = "Sin límite";
+
+/* Placeholder of the cell text field in Download limit */
+"No limit" = "No limit";
+
+/* Shown in a Product Variation cell if the variation is enabled but does not have a price */
+"No price set" = "Sin precio";
+
+/* The text on the placeholder overlay when there are no product variations on the Products tab */
+"No product variations yet" = "No hay ninguna variación de producto";
+
+/* Placeholder for the linked products list selector screen
+   Placeholder text when there are no products on the product list selector - The text on the placeholder overlay when there are no products on the Products tab */
+"No products yet" = "Aún no hay ningún producto";
+
+/* Placeholder for empty product ratings */
+"No ratings" = "Sin valoraciones";
+
+/* Empty state for the list of shipment carriers. It reads: 'No results for DHL. Add a custom carrier'. Parameters: %1$@ - carrier name */
+"No results found for %1$@\nAdd a custom carrier" = "No results found for %1$@\nAdd a custom carrier";
+
+/* Text displayed when no order data are available for the selected time range. */
+"No revenue this period" = "Sin ingresos durante este periodo";
+
+/* The text on the placeholder overlay when there are no shipping classes on the Shipping Class list picker */
+"No shipping classes yet" = "Todavía no hay clases de envío";
+
+/* Placeholder of the Product Tags row on Product main screen */
+"No tags" = "Sin etiquetas";
+
+/* The text on the placeholder overlay when there are no tax classes on the Tax Class list picker */
+"No tax classes yet" = "Todavía no hay clases de impuesto";
+
+/* Placeholder of the Product Variations row on Product main screen for a variable product */
+"No variations yet" = "No hay ninguna variación";
+
+/* Display label for the product's tax status setting option */
+"None" = "Ninguno";
+
+/* Instructions after a Magic Link was sent, but the email can't be found in their inbox. */
+"Not seeing the email? Check your Spam or Junk Mail folder." = "¿No ves el correo electrónico? Mira en tu carpeta de spam.";
+
+/* Order details > tracking.  This is where the shipping date would normally display. */
+"Not shipped yet" = "Aún no se ha enviado";
+
+/* Spoken accessibility label for an icon image that indicates it's a note to the customer. */
+"Note to customer" = "Enviar la nota al cliente";
+
+/* Alert dismissal title
+   Button title. An acknowledgement of the message displayed in a prompt. - Dismiss button on the alert when there is an error creating a new product category - Dismiss button on the alert when there is an error creating new product tags. - Dismiss button on the alert when there is an error requesting shipping label document for reprinting - Dismiss button on the alert when there is an error updating the product - Dismiss button on the alert when there is an error uploading image(s) - Dismisses the alert - Ok button for dismissing alert helping users understand their site address - Submit button on prompt for user information. */
+"OK" = "OK";
+
+/* Header of selected attribute options section in Add Attribute Options screen */
+"OPTIONS OFFERED" = "OPTIONS OFFERED";
+
+/* Spoken label to indicate switch control is turned off. */
+"Off" = "Apagado";
+
+/* +2 Days Section Header */
+"Older than 2 days" = "Hace más de 2 días";
+
+/* +7 Days Section Header */
+"Older than 7 days" = "Con más de 7 días";
+
+/* Months Section Header */
+"Older than a Month" = "Hace más de un mes";
+
+/* Weeks Section Header */
+"Older than a Week" = "Hace más de una semana";
+
+/* Spoken label to indicate switch control is turned on */
+"On" = "Encendido";
+
+/* Display label for the product's inventory stock status */
+"On back order" = "Pedido en proceso";
+
+/* Accessibility label for 1 password button */
+"One Password button" = "Botón de 1Password";
+
+/* Opens iOS's Device Settings for the app */
+"Open Device Settings" = "Abrir ajustes del dispositivo";
+
+/* The button title text for opening the user's preferred email app.
+   Title of a button. The text should be capitalized.  Clicking opens the mail app in the user's iOS device. */
+"Open Mail" = "Abrir correo electrónico";
+
+/* Navigates to screen about open source licenses */
+"Open Source Licenses" = "Licencias de código abierto";
+
+/* Label for the description of openening a link using a new window */
+"Open in a new Window\/Tab" = "Abrir en una nueva ventana\/pestaña";
+
+/* Accessibility hint for 1 password button */
+"Opens One Password manager" = "Se abre el gestor 1Password";
+
+/* Accessibility hint for the button to update the order status */
+"Opens a list of available statuses." = "Muestra una lista de los estados disponibles.";
+
+/* Placeholder of cell presenting the title of the new attribute option. */
+"Option name" = "Option name";
+
+/* Add Product Category. Placeholder of cell presenting the parent category.
+   Placeholder of the cell text field in Product Inventory Settings > SKU */
+"Optional" = "Opcional";
+
+/* No comment provided by engineer. */
+"Optional Tracking Information" = "Información de seguimiento opcional";
+
+/* Divider on initial auth view separating auth options. */
+"Or" = "O";
+
+/* Label for button to log in using site address. Underscores _..._ denote underline. */
+"Or log in by _entering your site address_." = "O accede _introduciendo la dirección de tu sitio_.";
+
+/* Header of attributes section in Add Attribute screen */
+"Or tap to select existing attribute" = "O toca un atributo ya existente";
+
+/* Add a note screen - title. Example: Order #15. Parameters: %1$@ - order number
+   Order number title. Parameters: %1$@ - order number */
+"Order #%1$@" = "Order #%1$@";
+
+/* Order notes section title */
+"Order Notes" = "Notas del pedido";
+
+/* Change order status screen - Screen title
+   The section title for the list of Order statuses in the Order Search. */
+"Order Status" = "Estado del pedido";
+
+/* Order Total label for payment view */
+"Order Total" = "Total del pedido";
+
+/* Order fulfillment success notice */
+"Order marked as fulfilled" = "El pedido se ha marcado como completado";
+
+/* Order status update success notice */
+"Order status updated" = "Se ha actualizado el estado del pedido";
+
+/* Accessibility label for Ordered list button on formatting toolbar. */
+"Ordered List" = "Lista ordenada";
+
+/* Default title for Orders List shown when tapping on the Search filter.
+   Orders stat label on dashboard - should be plural. - The title of the Orders tab. */
+"Orders" = "Pedidos";
+
+/* Subtitle of the product form bottom sheet action for editing categories. */
+"Organise your products into related groups" = "Organiza tus productos en grupos relacionados";
+
+/* My Store > Settings > Other app section */
+"Other" = "Otros";
+
+/* Display label for the product's inventory stock status */
+"Out of stock" = "Agotado";
+
+/* Product section title */
+"PRODUCT" = "PRODUCTO";
+
+/* Order shipping label package section title format. The number indicates the index of the shipping label package. */
+"Package %d" = "Paquete %d";
+
+/* Title of package details in shipping label details */
+"Package Details" = "Detalles del paquete";
+
+/* The title for the customer payment cell */
+"Paid By Customer" = "Pagado por el cliente";
+
+/* Title of the paper size selector row for reprinting a shipping label */
+"Paper Size" = "Tamaño del papel";
+
+/* Add Product Category. Title of cell presenting the parent category. */
+"Parent Category" = "Categoría superior";
+
+/* Accessibility label for the password text field in the self-hosted login page.
+   Login dialog password placeholder - Password field title in Product Visibility - Password placeholder - Placeholder for the password textfield. */
+"Password" = "Contraseña";
+
+/* One of the possible options in Product Visibility */
+"Password Protected" = "Protegida con contraseña";
+
+/* Paste without Formatting Menu Item */
+"Paste without Formatting" = "Pegar sin formato";
+
+/* Payment section title */
+"Payment" = "Pago";
+
+/* Title of payment method in shipping label details */
+"Payment Method" = "Método de pago";
+
+/* Display label for the review's pending status */
+"Pending" = "Pendiente";
+
+/* A unit test string, appended before the title of a review.
+   Indicates a review is pending approval. It reads { Pending Review · Content of the review} */
+"Pending Review" = "Pendiente de revisión";
+
+/* Display label for the product's pending status */
+"Pending review" = "Pendiente de revisión";
+
+/* Accessibility label that lets the user know the data is a phone number before speaking the phone number. */
+"Phone number: %@" = "Número de teléfono: %@";
+
+/* Product images (Product images page title) */
+"Photos" = "Fotos";
+
+/* Display label for simple physical product type. */
+"Physical" = "Físico";
+
+/* Store Picker's Section Title: Displayed whenever there are multiple Stores. */
+"Pick Store to Connect" = "Elegir tienda para realizar la conexión";
+
+/* Title of the in-progress UI while deleting the Product remotely */
+"Placing your product in the trash..." = "Colocando el producto en la papelera...";
+
+/* Placeholder for editing the URL of a text link */
+"Please enter a URL" = "Introduce una URL";
+
+/* Error message shown when a URL is invalid. */
+"Please enter a complete website address, like example.com." = "Introduce una dirección de sitio web completa, como ejemplo.com.";
+
+/* No comment provided by engineer. */
+"Please enter a site address." = "Introduce una dirección para el sitio.";
+
+/* No comment provided by engineer. */
+"Please enter a username." = "Por favor escribe el nombre de usuario.";
+
+/* Error message displayed when the user attempts use an invalid email address. */
+"Please enter a valid email address." = "Introduce una dirección de correo válida.";
+
+/* Placeholder for editing the text of a text link */
+"Please enter some text" = "Introduce texto.";
+
+/* No comment provided by engineer. */
+"Please enter the password for your WordPress.com account to log in with your Apple ID." = "Introduce la contraseña de tu cuenta en WordPress.com para acceder con tu ID de Apple.";
+
+/* Instruction text on the two-factor screen. */
+"Please enter the verification code from your authenticator app, or tap the link below to receive a code via SMS." = "Introduce el código de verificación de tu aplicación de Autenticación o toca el enlace que se incluye más abajo para recibir un código a través de SMS.";
+
+/* Popup message to ask for user credentials (fields shown below). */
+"Please enter your credentials" = "Introduce tus credenciales";
+
+/* Instructions for alert asking for email and name. */
+"Please enter your email address and username:" = "Introduce tu dirección de correo electrónico y nombre de usuario:";
+
+/* Instructions for alert asking for email. */
+"Please enter your email address:" = "Por favor, introduce tu dirección de correo electrónico.";
+
+/* A short prompt asking the user to properly fill out all login fields. */
+"Please fill out all the fields" = "Rellena todos los campos";
+
+/* Message for alert to prompt user to logout before connecting to a different wordpress.com site. */
+"Please log out before connecting to a different wordpress.com site" = "Cierra la sesión antes de conectarte a otro sitio de wordpress.com";
+
+/* Error message when an image captured by camera cannot be saved to the device Photos library */
+"Please make sure the app can access Photos in device settings" = "Comprueba que la app puede acceder a las fotografías en los ajustes del dispositivo";
+
+/* The message of the alert when there is an error uploading an image */
+"Please try again." = "Inténtalo de nuevo.";
+
+/* Message of in-progress modal when requesting shipping label document for reprinting
+   Text on the loading view of the survey screen indicating the user to wait */
+"Please wait" = "Espera";
+
+/* Message of the in-progress UI while updating the Product remotely */
+"Please wait while we publish this product to your store" = "Espera mientras publicamos este producto en tu tienda";
+
+/* Message of the in-progress UI while saving a Product as draft remotely */
+"Please wait while we save this product to your store" = "Please wait while we save this product to your store";
+
+/* Message of the in-progress UI while saving a Product as draft remotely */
+"Please wait while we save this product to your store" = "Espera mientras guardamos este producto en tu tienda";
+
+/* Message of the in-progress UI while deleting the Product remotely */
+"Please wait while we update your store details" = "Espera mientras actualizamos los detalles de tu tienda.";
+
+/* Text on the loading view of the product downloadable file screen indicating the user to wait */
+"Please wait..." = "Por favor, espera";
+
+/* Info text saying that crowdsignal in an Automattic product */
+"Powered by Automattic" = "Ofrecido por Automattic";
+
+/* A label representing the amount that was previously refunded for the order. */
+"Previously Refunded" = "Reembolsado anteriormente";
+
+/* A label representing the amount that was previously refunded for the order. */
+"Previously Refunded" = "Previously Refunded";
+
+/* Product Price Settings navigation title
+   Section header title for product price - Title for editing the price settings row on Product main screen - Title of the cell in Product Price Settings > Price */
+"Price" = "Precio";
+
+/* Button title to generate a shipping label document for printing */
+"Print Shipping Label" = "Imprimir etiqueta de envío";
+
+/* Navigation bar title of shipping label printing instructions screen */
+"Print from your Phone" = "Print from your Phone";
+
+/* The title of the shipping labels top banner in order details */
+"Print shipping labels from your device!" = "Print shipping labels from your device!";
+
+/* Title of in-progress modal when requesting shipping label document for reprinting */
+"Printing Label" = "Printing Label";
+
+/* Opens the California Privacy Policy web page */
+"Privacy Notice for California Users" = "Aviso de privacidad para usuarios de California";
+
+/* Opens the Privacy Policy web page */
+"Privacy Policy" = "Política de privacidad";
+
+/* Navigates to Privacy Settings screen
+   Privacy settings screen title */
+"Privacy Settings" = "Ajustes de privacidad";
+
+/* One of the possible options in Product Visibility */
+"Private" = "Privado";
+
+/* Spoken accessibility label for an icon image that indicates it's a private note and is not seen by the customer. */
+"Private note" = "Nota privada";
+
+/* Display label for the product's private status */
+"Privately published" = "Publicado como privado";
+
+/* Title for the first page in the Orders tab. */
+"Processing" = "Se está procesando";
+
+/* Description for Top Performers left column header
+   Product section title - Product section title if there is only one product. - Section header title for the product */
+"Product" = "Producto";
+
+/* Edit Product External Link navigation title */
+"Product Link" = "Enlace del producto";
+
+/* Title of the view containing a single Product Review */
+"Product Review" = "Reseña de producto";
+
+/* Button title Product Settings in Edit Product More Options Action Sheet
+   Product Settings navigation title */
+"Product Settings" = "Configuración del producto";
+
+/* Row title for filtering products by product status. */
+"Product Status" = "Estado del producto";
+
+/* Product Total label for payment view */
+"Product Total" = "Total de productos";
+
+/* Row title for filtering products by product type. */
+"Product Type" = "Tipo de producto";
+
+/* Title of the text field for editing the external URL for an external/affiliate product */
+"Product URL" = "URL del producto";
+
+/* Title of the external URL row on Product main screen for an external/affiliate product */
+"Product link" = "Enlace del producto";
+
+/* Title of the Product Type row on Product main screen */
+"Product type" = "Tipo de producto";
+
+/* Product section title if there is more than one product.
+   Title of the Products tab — plural form of Product - Title that appears on top of the Product List screen (plural form of the word Product). */
+"Products" = "Productos";
+
+/* Label for computed value `product refunds + taxes = subtotal`.
+   Title on the refund screen that lists the products refund total cost */
+"Products Refund" = "Reembolso de productos";
+
+/* Cell description for Cross-sells products in Linked Products Settings screen */
+"Products promoted in the cart when current product is selected" = "Productos promocionados en el carrito cuando se selecciona el producto actual";
+
+/* Cell description for Upsells products in Linked Products Settings screen */
+"Products promoted instead of the currently viewed product (ie more profitable products)" = "Productos promocionados en lugar del producto que se está viendo actualmente (por ejemplo, productos más rentables)";
+
+/* VoiceOver accessibility hint, informing the user that the row can be tapped to call or message the billing customer. */
+"Prompts with the option to call or message the billing customer." = "Mensajes con la opción de llamar o enviar un mensaje al cliente de la facturación.";
+
+/* One of the possible options in Product Visibility */
+"Public" = "Público";
+
+/* Action for creating a new Product remotely */
+"Publish" = "Publicar";
+
+/* Title of the Publish Settings section on Product Settings screen */
+"Publish Settings" = "Configuración de publicación";
+
+/* shown in promotional screens during first launch */
+"Publish from the park. Blog from the bus. Comment from the café. WordPress goes where you do." = "Publica desde el parque. Bloguea desde el autobús. Comenta desde la cafetería. WordPress va donde tú vayas.";
+
+/* Display label for the product's published status */
+"Published" = "Publicado";
+
+/* Title of the in-progress UI while updating the Product remotely */
+"Publishing your product..." = "Publicando tu producto...";
+
+/* Title of shipping label purchase date in Refund Shipping Label screen */
+"Purchase Date" = "Fecha de compra";
+
+/* Product Note navigation title
+   Purchase note label in Product Settings */
+"Purchase Note" = "Nota de compra";
+
+/* Title for purchase note alert. */
+"Purchase note" = "Recibo de compra";
+
+/* Quantity abbreviation for section title */
+"QTY" = "CANTIDAD";
+
+/* Quantity abbreviation for section title
+   Section header title - abbreviation for quantity */
+"Qty" = "Cantidad";
+
+/* The accessibility label for the quantity button when selecting an item to refund
+   Title of the cell in Product Inventory Settings > Quantity */
+"Quantity" = "Cantidad";
+
+/* Navigation title on the quantity item selector screen */
+"Quantity to refund" = "Cantidad por reembolsar";
+
+/* Navigation title on the quantity item selector screen */
+"Quantity to refund" = "Quantity to refund";
+
+/* Format of the stock quantity on the Inventory Settings row */
+"Quantity: %ld" = "Cantidad: %ld";
+
+/* Subtitle for Contact Support */
+"Reach our happiness engineers who can help answer tough questions" = "Ponte en contacto con nuestros Happiness Engineers y soluciona las cuestiones más complicadas.";
+
+/* Settings > Privacy Settings > privacy policy info section. A text link to the privacy policy. */
+"Read privacy policy" = "Leer la política de privacidad";
+
+/* Refund note section title */
+"Reason for Refund" = "Motivo del reembolso";
+
+/* A label for the text field that the user can edit to indicate why they are issuing a refund. */
+"Reason for Refund (Optional)" = "Motivo del reembolso (opcional)";
+
+/* A label for the text field that the user can edit to indicate why they are issuing a refund. */
+"Reason for Refund (Optional)" = "Reason for Refund (Optional)";
+
+/* A placeholder for the text field that the user can edit to indicate why they are issuing a refund. */
+"Reason for refunding order" = "Reason for refunding order";
+
+/* A placeholder for the text field that the user can edit to indicate why they are issuing a refund. */
+"Reason for refunding order" = "Motivo del pedido de reembolso";
+
+/* The title of the button to confirm the refund. */
+"Refund" = "Refund";
+
+/* The title of the button to confirm the refund. */
+"Refund" = "Reembolso";
+
+/* It reads: Refund #<refund ID> */
+"Refund #%@" = "Reembolsar #%@";
+
+/* A label representing the amount that will be refunded if the user confirms to proceed with the refund.
+   Refund Details page > Refund Details section > The label that marks the refunded amount */
+"Refund Amount" = "Importe del reembolso";
+
+/* Refund Details section title */
+"Refund Details" = "Información del reembolso";
+
+/* Button title for requesting a refund for a shipping label. The variable is a formatted amount that is eligible for refund (e.g. $7.50). */
+"Refund Label (%1$@)" = "Etiqueta de reembolso (%1$@)";
+
+/* Title of the switch in the IssueRefund screen to refund shipping */
+"Refund Shipping" = "Reembolsar envío";
+
+/* Title of the switch in the IssueRefund screen to refund shipping */
+"Refund Shipping" = "Refund Shipping";
+
+/* The title of the section containing information about how the refund will be processed. */
+"Refund Via" = "Reembolso a través de";
+
+/* The title of the section containing information about how the refund will be processed. */
+"Refund Via" = "Refund Via";
+
+/* The title for the refunded amount cell */
+"Refunded" = "Reembolsado";
+
+/* Order > Order Details > 'N Items' cell tapped > Refunded Products title
+   Refunded Products section title - Section title */
+"Refunded Products" = "Productos reembolsados";
+
+/* Title of the refund detail cell when the refund was done manually. */
+"Refunded manually" = "Reembolsado manualmente";
+
+/* It reads, 'Refunded manually via <payment method>' */
+"Refunded manually via %@" = "Reembolsado manualmente a través de %@";
+
+/* It reads, 'Refunded via <payment method>' */
+"Refunded via %@" = "Reembolsado a través de %@";
+
+/* Describes a domain that was registered with WordPress.com */
+"Registered Domain" = "Dominio registrado";
+
+/* Format of the regular price on the Price Settings row */
+"Regular price: %@" = "Precio normal: %@";
+
+/* Confirm button on the alert when the user taps to delete a Product image */
+"Remove" = "Eliminar";
+
+/* Title on the alert when the user taps to delete a Product image */
+"Remove Image" = "Eliminar imagen";
+
+/* Label action for removing a link from the editor */
+"Remove Link" = "Borrar enlace";
+
+/* Label action for removing a link from the editor */
+"Remove end date" = "Eliminar fecha de finalización";
+
+/* Title of the alert when a user is moving a product to the trash */
+"Remove product" = "Eliminar producto";
+
+/* Action to replace one photo on the Product images screen */
+"Replace Photo" = "Reemplazar foto";
+
+/* Settings > Privacy Settings > report crashes section. Label for the `Report Crashes` toggle. */
+"Report Crashes" = "Informar de fallos";
+
+/* Navigation bar title to reprint a shipping label
+   Text on the button that reprints a shipping label */
+"Reprint Shipping Label" = "Volver a imprimir la etiqueta de envío";
+
+/* Navigation bar title to request a refund for a shipping label
+   Request a refund on a shipping label from the shipping label more menu action sheet */
+"Request a Refund" = "Solicitar un reembolso";
+
+/* Deletes all activity logs except for the marked 'Current'. */
+"Reset Activity Log" = "Restablecer registros de actividad";
+
+/* The button title for a secondary call-to-action button. When the user can't remember their password. */
+"Reset your password" = "Restablecer tu contraseña";
+
+/* VoiceOver accessibility hint, informing the user the button can be used to search orders. */
+"Retrieves a list of orders that contain a given keyword." = "Se obtiene una lista de los pedidos que contienen una palabra clave determinada.";
+
+/* VoiceOver accessibility hint, informing the user the button can be used to search products. */
+"Retrieves a list of products that contain a given keyword." = "Se obtiene una lista de los productos que contienen una palabra clave determinada.";
+
+/* Retry Action
+   Retry the last action */
+"Retry" = "Reintentar";
+
+/* Revenue stat label on dashboard. */
+"Revenue" = "Ingresos";
+
+/* Review moderation success notice message. It reads: Review marked as {new status} */
+"Review marked as %@" = "La reseña se ha marcado como %@";
+
+/* Title of the Reviews row on Product main screen
+   Title of the Reviews tab — plural form of Review - Title that appears on top of the main Reviews screen (plural form of the word Review). - Title that appears on top of the Product Reviews screen. */
+"Reviews" = "Reseñas";
+
+/* Post Rich content */
+"Rich Content" = "Contenido enriquecido";
+
+/* Edit Product SKU navigation title
+   Title of the cell in Product Inventory Settings > SKU - Title of the product form bottom sheet action for editing short description. - Title of the SKU row on Product main screen */
+"SKU" = "SKU";
+
+/* The message of the alert when there is an error updating the product SKU */
+"SKU already in use by another product" = "Otro producto ya usa este SKU";
+
+/* SKU label in order details > product row. The variable shows the SKU of the product. */
+"SKU: %1$@" = "SKU: %1$@";
+
+/* Format of the SKU on the Inventory Settings row */
+"SKU: %@" = "SKU: %@";
+
+/* One Time Code has been sent via SMS */
+"SMS Sent" = "Se ha enviado un SMS";
+
+/* Format of the sale period on the Price Settings row */
+"Sale dates: %@" = "Fechas de venta: %@";
+
+/* Format of the sale period on the Price Settings row from a certain date */
+"Sale dates: From %@" = "Fechas de venta: Desde el %@";
+
+/* Format of the sale period on the Price Settings row until a certain date */
+"Sale dates: Until %@" = "Fechas de venta: Hasta el %@";
+
+/* Title of the cell in Product Price Settings > Sale price */
+"Sale price" = "Precio rebajado";
+
+/* Format of the sale price on the Price Settings row */
+"Sale price: %@" = "Precio rebajado: %@";
+
+/* Add Product Category. Save button title in navbar.
+   Add Product Tags. Save button title in navbar. */
+"Save" = "Guardar";
+
+/* Button title to save a product as draft in Discard Changes Action Sheet */
+"Save as Draft" = "Guardar como borrador";
+
+/* Button title to save a product as draft in Product More Options Action Sheet */
+"Save as draft" = "Guardar como borrador";
+
+/* Title of the in-progress UI while saving a Product as draft remotely */
+"Saving your product..." = "Saving your product...";
+
+/* Title of the in-progress UI while saving a Product as draft remotely */
+"Saving your product..." = "Guardando tu producto…";
+
+/* Navigation bar title for scanning a barcode to use as a product's SKU. */
+"Scan barcode to update SKU" = "Escanear código de barras para actualizar SKU";
+
+/* The instruction text below the scan area in the barcode scanner for product SKU. */
+"Scan product barcode" = "Escanear código de barras de producto";
+
+/* Scan Products */
+"Scan products" = "Escanear productos";
+
+/* VoiceOver accessibility hint, informing the user the button can be used to scan products. */
+"Scans barcodes that are associated with a product SKU for stock management." = "Escanea los códigos de barras asociados con un SKU de producto para la gestión de inventario.";
+
+/* Title of the cell in Product Price Settings > Schedule sale */
+"Schedule sale" = "Programar oferta";
+
+/* Orders Search Placeholder */
+"Search all orders" = "Buscar en todos los pedidos";
+
+/* Products Search Placeholder */
+"Search all products" = "Buscar todos los productos";
+
+/* Search Orders */
+"Search orders" = "Buscar en pedidos";
+
+/* Search Products */
+"Search products" = "Buscar productos";
+
+/* Display label for the product's catalog visibility */
+"Search results only" = "Solo resultados de búsqueda";
+
+/* Action button linking to instructions for installing Jetpack.Presented when logging in with a site address that does not have a valid Jetpack installation */
+"See Instructions" = "Consulta las instrucciones";
+
+/* Shown in the prologue carousel (promotional screens) during first launch. */
+"See comments and notifications in real time." = "Visualiza comentarios y notificaciones en tiempo real.";
+
+/* Link title to see all paper size options */
+"See layout and paper sizes options" = "Consulta las opciones de tamaño de papel y diseño";
+
+/* Select all button title in the issue refund screen */
+"Select All" = "Elegir todo";
+
+/* Select all button title in the issue refund screen */
+"Select All" = "Select All";
+
+/* Select parent category screen - Screen title */
+"Select Parent Category" = "Elegir una categoría principal";
+
+/* Page title for the select a different store screen */
+"Select Store" = "Elegir tienda";
+
+/* Message title of bottom sheet for selecting a product type to create a product */
+"Select a product type" = "Elige un tipo de producto";
+
+/* Add the shipping carrier. Placeholder of cell presenting carrier name */
+"Select carrier" = "Elige una empresa de transporte";
+
+/* Placeholder value of the cell in Product Price Settings > Schedule sale to a certain date */
+"Select end date" = "Selecciona la fecha de finalización";
+
+/* Accessibility label for selecting paragraph style button on formatting toolbar. */
+"Select paragraph style" = "Elegir el estilo del párrafo";
+
+/* Placeholder value of the cell in Product Price Settings > Schedule sale from a certain date */
+"Select start date" = "Selecciona la fecha de inicio";
+
+/* Title of the bottom sheet from the product downloadable file to add a new downloadable file. */
+"Select upload method" = "Elige el método de carga";
+
+/* My Store > Settings > Selected Store information section. This is the heading listed above the information row that displays the store website and their username. */
+"Selected Store" = "Tienda elegida";
+
+/* Presents a survey to gather feedback from the user. */
+"Send Feedback" = "Enviar comentario";
+
+/* Title of a button. The text should be uppercase.  Clicking requests a hyperlink be emailed ot the user. */
+"Send Link" = "Enviar enlace";
+
+/* The button title text for sending a magic link. */
+"Send Link by Email" = "Enviar enlace por correo electrónico";
+
+/* Tells user to set an email that support can use for replies */
+"Set email" = "Configurar correo electrónico";
+
+/* Accessibility label for the Settings button.
+   Settings navigation title */
+"Settings" = "Configuracion";
+
+/* Button title Share in Edit Product More Options Action Sheet */
+"Share" = "Compartir";
+
+/* Settings > Privacy Settings > collect info section. Explains what the 'collect information' toggle is collecting */
+"Share information with our analytics tool about your use of services while logged in to your WordPress.com account." = "Comparte información con nuestra herramienta de análisis acerca del uso que haces de los servicios mientras estás conectado a tu cuenta de WordPress.com.";
+
+/* Action: Opens the Store in a browser */
+"Share your Store" = "Comparte tu tienda";
+
+/* Title of origin address in shipping label details */
+"Ship from" = "Enviar desde";
+
+/* Title of destination address in shipping label details */
+"Ship to" = "Enviar a";
+
+/* A unit test string for order tracking. Reads as: 'Shipment Company HK Post'
+   Accessibility label for Shipment tracking company in Order details screen. Reads like: Shipment Company USPS */
+"Shipment Company %@" = "Empresa de transportes %@";
+
+/* Navigation bar title of shipping label details */
+"Shipment Details" = "Detalles del envío";
+
+/* Accessibility label for Shipment date in Order details screen. Shipped: February 27, 2018.
+   Date an item was shipped */
+"Shipped %@" = "Enviado el %@";
+
+/* Product Shipping Settings navigation title
+   Shipping label for payment view - Title of the product form bottom sheet action for editing shipping settings. - Title of the Shipping Settings row on Product main screen */
+"Shipping" = "Envío";
+
+/* Title of shipping carrier and rates in shipping label details */
+"Shipping Carrier and Rates" = "Empresa de transporte y tarifas";
+
+/* Title of view displaying all available Shipment Tracking Carriers */
+"Shipping Carriers" = "Empresas de transporte";
+
+/* Shipping method title for customer info cell */
+"Shipping Method" = "Método de envío";
+
+/* Title on the refund screen that lists the shipping total cost */
+"Shipping Refund" = "Reembolso del envío";
+
+/* Add / Edit shipping carrier. Title of cell presenting name */
+"Shipping carrier" = "Empresa de transporte";
+
+/* Title of the cell in Product Shipping Settings > Shipping class */
+"Shipping class" = "Clase de envío";
+
+/* Navigation bar title of the Product shipping class selector screen */
+"Shipping classes" = "Clases de envío";
+
+/* Shipping title for customer info cell */
+"Shipping details" = "Detalles del envío";
+
+/* VoiceOver accessibility label for the shipping notice about the order */
+"Shipping notice about the order" = "Aviso de envío del pedido";
+
+/* Display label for the product's tax status setting option */
+"Shipping only" = "Solo envío";
+
+/* Display label for the product's catalog visibility */
+"Shop and search results" = "Resultados de búsqueda y de tiendas";
+
+/* Display label for the product's catalog visibility */
+"Shop only" = "Solo en la tienda";
+
+/* The navigation bar title of the edit short description screen.
+   Title of the product form bottom sheet action for editing short description. - Title of the Short Description row on Product main screen */
+"Short description" = "Descripción corta";
+
+/* Button title for applying filters to a list of products. */
+"Show Products" = "Mostrar productos";
+
+/* VoiceOver accessibility hint, informing the user that the button can be used to view billing information. */
+"Show a list of refunded order items for this order." = "Muestra una lista de elementos de pedido reembolsados para este pedido.";
+
+/* Accessibility label to show bottom action sheet options for a downloadable file */
+"Show bottom action sheet options for a downloadable file" = "Muestra las opciones de la hoja de acción inferior para obtener un archivo descargable.";
+
+/* Accessibility label for the 'Show password' button in the login page's password field.
+   Accessibility label for the “Show password“ button in the login page's password field. */
+"Show password" = "Mostrar contraseña";
+
+/* VoiceOver accessibility hint, informing the user that the button can be used to view refund detail information. */
+"Show refund details for this order." = "Muestra los datos de reembolso de este pedido.";
+
+/* VoiceOver accessibility hint, informing the user that the button can be used to view billing information. */
+"Show the billing details for this order." = "Muestra los datos de facturación de este pedido.";
+
+/* VoiceOver accessibility hint, informing the user that the button can be used to view shipping label shipment details. */
+"Show the shipment details for this shipping label." = "Muestra los detalles del envío de esta etiqueta de envío.";
+
+/* Accessibility value if login page's password field is displaying the password. */
+"Shown" = "Visible";
+
+/* Accessibility hint for Delete Shipment button in Order details screen */
+"Shows more options." = "Muestra más opciones.";
+
+/* View title during the sign up process. */
+"Sign Up" = "Registrarse";
+
+/* When social login fails, this button offers to let them signup for a new WordPress.com account */
+"Sign up" = "Crear Cuenta";
+
+/* Button title. Tapping begins the process of creating a WordPress.com account. */
+"Sign up for WordPress.com" = "Regístrate en WordPress.com";
+
+/* Button title. Tapping begins our normal sign up process. */
+"Sign up with Email" = "Registro con correo electrónico";
+
+/* Display label for simple product type. */
+"Simple" = "Sencillo";
+
+/* Action sheet option when the user wants to change the Product type to simple product */
+"Simple product" = "Producto simple";
+
+/* Describes a site redirect domain */
+"Site Redirect" = "Redirección de sitio";
+
+/* Accessibility label of the site address field shown when adding a self-hosted site. */
+"Site address" = "Dirección del sitio";
+
+/* No comment provided by engineer. */
+"Site address must be at least 4 characters." = "La dirección del sitio debe tener al menos 4 caracteres.";
+
+/* Placeholder in the Product Slug row on Edit Product Slug screen.
+   Product Slug navigation title - Slug label in Product Settings */
+"Slug" = "Slug";
+
+/* Banner title in product variation list top banner when some variations do not have a price */
+"Some variations do not have prices" = "Algunas variaciones no tienen precios";
+
+/* A unit test for reviews, checking that anonymous users are added as the author named `someone`
+   Indicates the reviewer does not have a name. It reads { Someone left a review} */
+"Someone" = "Alguien";
+
+/* Notice format when a shipping label refund request fails. */
+"Something went wrong with the refund. Please try again." = "No se ha podido realizar el reembolso. Inténtalo de nuevo.";
+
+/* This error message occurs when a user tries to create a username that contains an invalid phrase for WordPress.com. The %@ may include the phrase in question if it was sent down by the API */
+"Sorry, but your username contains an invalid phrase%@." = "Lo sentimos, pero tu nombre de usuario contiene una frase no válida %@.";
+
+/* The title of the alert when there is an error removing the image from a Product Variation if WooCommerce <4.7 */
+"Sorry, image removal on product variations is supported in WooCommerce 4.7 or greater, please update your site." = "Lo sentimos, la eliminación de imágenes en las variaciones de productos es compatible con WooCommerce 4.7 o versiones superiores. Actualiza tu sitio.";
+
+/* No comment provided by engineer. */
+"Sorry, site addresses can only contain lowercase letters (a-z) and numbers." = "La dirección sólo puede contenter letras minúsculas (a-z) y números.";
+
+/* No comment provided by engineer. */
+"Sorry, site addresses may not contain the character &#8220;_&#8221;!" = "La dirección del sitio no puede contener el caracter &#8220;_&#8221;";
+
+/* No comment provided by engineer. */
+"Sorry, site addresses must have letters too!" = "La dirección del sitio debe contener letras.";
+
+/* Error message displayed when the entered email is not available. */
+"Sorry, that email address is already being used!" = "El email ya se ha usado.";
+
+/* No comment provided by engineer. */
+"Sorry, that email address is not allowed!" = "Este correo electrónico no está permitido";
+
+/* This error message occurs when a user tries to create an account with a weak password. */
+"Sorry, that password does not meet our security guidelines. Please choose a password with a minimum length of six characters, mixing uppercase letters, lowercase letters, numbers and symbols." = "Lo sentimos, esa contraseña no cumple con nuestras directrices de seguridad. Por favor, elige una contraseña que contenga un mínimo de seis caracteres, mezcle mayúsculas y minúsculas, números y símbolos.";
+
+/* No comment provided by engineer. */
+"Sorry, that site already exists!" = "Este sitio ya existe.";
+
+/* No comment provided by engineer. */
+"Sorry, that site is reserved!" = "Este sitio está reservado";
+
+/* No comment provided by engineer. */
+"Sorry, that username already exists!" = "Este usuario ya existe.";
+
+/* No comment provided by engineer. */
+"Sorry, that username is unavailable." = "Lo sentimos, este nombre de usuario no está disponible";
+
+/* No comment provided by engineer. */
+"Sorry, usernames can only contain lowercase letters (a-z) and numbers." = "El nombre de usuario sólo puede contenter letras minúsculas (a-z) y números.";
+
+/* No comment provided by engineer. */
+"Sorry, usernames may not contain the character &#8220;_&#8221;!" = "El nombre de usuario no puede contener el caracter &#8220;_&#8221;";
+
+/* No comment provided by engineer. */
+"Sorry, usernames must have letters (a-z) too!" = "Disculpa, el nombre de usuario, también debe contener letras.";
+
+/* No comment provided by engineer. */
+"Sorry, you may not use that site address." = "No puedes utilizar esta dirección para el sitio.";
+
+/* Message title for sort products action bottom sheet
+   Title of the toolbar button to sort products in different ways. */
+"Sort by" = "Ordenar por";
+
+/* Display label for the review's spam status
+   Verb, spam a comment */
+"Spam" = "Spam";
+
+/* Option to select the Spark email app when logging in with magic links */
+"Spark" = "Spark";
+
+/* The name of the default Tax Class in Product Price Settings */
+"Standard rate" = "Tarifa estándar";
+
+/* Aztec's Text Placeholder */
+"Start writing..." = "Empieza a escribir...";
+
+/* VoiceOver accessibility value, informs the user about the X-axis min/max values. It reads: Starting date {date}, ending date {date}. */
+"Starting period %@, ending period %@" = "Periodo de inicio: %1$@. Periodo de finalización: %2$@.";
+
+/* Product status setting list selector navigation title
+   Status label in Product Settings */
+"Status" = "Estado";
+
+/* Button title to contact support to get help with deprecated stats */
+"Still need help? Contact us" = "¿Sigues necesitando ayuda? Contacta con nosotros";
+
+/* Row title for filtering products by stock status. */
+"Stock Status" = "Estado del inventario";
+
+/* Product stock status list selector navigation title
+   Title of the cell in Product Inventory Settings > Stock status */
+"Stock status" = "Estado del inventario";
+
+/* VoiceOver accessibility label for the store revenue chart. */
+"Store revenue chart" = "Gráfico de ingresos de la tienda";
+
+/* VoiceOver accessibility label for the store revenue chart. It reads: Store revenue chart {chart granularity}. */
+"Store revenue chart %@" = "Gráfico de ingresos de la tienda: %@";
+
+/* VoiceOver accessibility label for the store revenue chart's X-axis. */
+"Store revenue chart: X Axis" = "Gráfico de ingresos de la tienda: Eje X";
+
+/* VoiceOver accessibility label for the store revenue chart's Y-axis. */
+"Store revenue chart: Y Axis" = "Gráfico de ingresos de la tienda: Eje Y";
+
+/* Accessibility label for strikethrough button on formatting toolbar. */
+"Strike Through" = "Tachado";
+
+/* Subtotal label for a refund details view
+   Title on the refund screen that lists the products refund subtotal cost - Title on the refund screen that lists the shipping subtotal cost */
+"Subtotal" = "Subtotal";
+
+/* This action allows the user to change stores without logging out and logging back in again. */
+"Switch Store" = "Cambiar de tienda";
+
+/* Message presented after users switch to a new store. Reads like: Switched to {store name}. You will only receive notifications from this store. Parameters: %1$@ - store name */
+"Switched to %1$@. You will only receive notifications from this store." = "Switched to %1$@. You will only receive notifications from this store.";
+
+/* Accessibility Identifier for the H1 Aztec Style */
+"Switches to the Heading 1 font size" = "Cambia al tamaño de fuente Encabezado 1";
+
+/* Accessibility Identifier for the H2 Aztec Style */
+"Switches to the Heading 2 font size" = "Cambia al tamaño de fuente Encabezado 2";
+
+/* Accessibility Identifier for the H3 Aztec Style */
+"Switches to the Heading 3 font size" = "Cambia al tamaño de fuente Encabezado 3";
+
+/* Accessibility Identifier for the H4 Aztec Style */
+"Switches to the Heading 4 font size" = "Cambia al tamaño de fuente Encabezado 4";
+
+/* Accessibility Identifier for the H5 Aztec Style */
+"Switches to the Heading 5 font size" = "Cambia al tamaño de fuente Encabezado 5";
+
+/* Accessibility Identifier for the H6 Aztec Style */
+"Switches to the Heading 6 font size" = "Cambia al tamaño de fuente Encabezado 6";
+
+/* Accessibility Identifier for the Default Font Aztec Style. */
+"Switches to the default Font Size" = "Cambia al tamaño de fuente por defecto";
+
+/* Product Tags navigation title
+   Title of the product form bottom sheet action for editing tags. - Title of the Tags row on Product main screen */
+"Tags" = "Etiquetas";
+
+/* Menu option for taking an image or video with the device's camera. */
+"Take a photo" = "Hacer una foto";
+
+/* Accessibility hint for the More button on formatting toolbar. */
+"Tap for more formatting options" = "Toca para ver más opciones de formato";
+
+/* Accessibility hint for insert horizontal ruler button on formatting toolbar. */
+"Tap to insert a Horizontal Ruler" = "Toca para insertar una regla horizontal";
+
+/* Accessibility hint for insert link button on formatting toolbar. */
+"Tap to insert a Link" = "Toca para insertar un enlace";
+
+/* The accessibility hint for the quantity button when selecting an item to refund */
+"Tap to modify the item refund quantity" = "Toca para cambiar la cantidad del rembolso por el artículo";
+
+/* VoiceOver accessibility hint for the row that shows instructions on how to print a shipping label on the mobile device */
+"Tap to show instructions on how to print a shipping label on the mobile device" = "Toca para mostrar las instrucciones sobre cómo imprimir una etiqueta de envío desde un dispositivo móvil";
+
+/* Accessibility hint for block quote button on formatting toolbar. */
+"Tap to toggle Block Quote" = "Toca para activar el bloque de cita";
+
+/* Accessibility hint for bold button on formatting toolbar. */
+"Tap to toggle Bold text" = "Toca para activar la negrita";
+
+/* Accessibility hint for HTML button on formatting toolbar. */
+"Tap to toggle HTML mode" = "Toca para activar el modo HTML";
+
+/* Accessibility hint for selecting h1 paragraph style button on the formatting toolbar. */
+"Tap to toggle Header 1" = "Toca para activar el encabezado 1";
+
+/* Accessibility hint for selecting h2 paragraph style button on the formatting toolbar. */
+"Tap to toggle Header 2" = "Toca para activar el encabezado 2";
+
+/* Accessibility hint for selecting h3 paragraph style button on the formatting toolbar. */
+"Tap to toggle Header 3" = "Toca para activar el encabezado 3";
+
+/* Accessibility hint for selecting h4 paragraph style button on the formatting toolbar. */
+"Tap to toggle Header 4" = "Toca para activar el encabezado 4";
+
+/* Accessibility hint for selecting h5 paragraph style button on the formatting toolbar. */
+"Tap to toggle Header 5" = "Toca para activar el encabezado 5";
+
+/* Accessibility hint for selecting h6 paragraph style button on the formatting toolbar. */
+"Tap to toggle Header 6" = "Toca para activar el encabezado 6";
+
+/* Accessibility hint for italic button on formatting toolbar. */
+"Tap to toggle Italic text" = "Toca para activar la cursiva";
+
+/* Accessibility hint for Ordered list button on formatting toolbar. */
+"Tap to toggle Ordered List" = "Toca para activar la lista ordenada";
+
+/* Accessibility hint for strikethrough button on formatting toolbar. */
+"Tap to toggle Strike Through" = "Toca para activar el tachado";
+
+/* Accessibility hint for underline button on formatting toolbar. */
+"Tap to toggle Underline" = "Toca para activar el subrayado";
+
+/* Accessibility hint for unordered list button on formatting toolbar. */
+"Tap to toggle Unordered List" = "Toca para activar la lista desordenada";
+
+/* Accessibility hint for selecting paragraph style button on formatting toolbar. */
+"Tap to toggle paragraph style" = "Toca para cambiar el estilo del párrafo";
+
+/* Tax label for a refund details view
+   Title on the refunds screen that lists the products refund tax cost - Title on the refunds screen that lists the shipping tax cost */
+"Tax" = "Impuesto";
+
+/* Section header title for product tax settings */
+"Tax Settings" = "Configuración de impuestos";
+
+/* Navigation bar title of the Product tax status selector screen */
+"Tax Status" = "Estado del impuesto";
+
+/* Title of the cell in Product Price Settings > Tax class */
+"Tax class" = "Clase de impuesto";
+
+/* Navigation bar title of the Product tax class selector screen */
+"Tax classes" = "Clases de impuesto";
+
+/* Title of the cell in Product Price Settings > Tax status */
+"Tax status" = "Estado del impuesto";
+
+/* Display label for the product's tax status setting option */
+"Taxable" = "Imponible";
+
+/* Taxes label for payment view */
+"Taxes" = "Impuestos";
+
+/* Opens the Terms of Service web page */
+"Terms of Service" = "Condiciones del servicio";
+
+/* My Store > Settings > Experimental features > Products */
+"Test out the new product creation as we get ready to launch" = "Prueba la creación de nuevos productos mientras preparamos el lanzamiento";
+
+/* Button title
+   The button's title text to send a 2FA code via SMS text message. */
+"Text me a code instead" = "Envía un código por mensaje de texto";
+
+/* Text thanking the user when the survey is completed */
+"Thank you for sharing your thoughts with us" = "Gracias por compartir tus comentarios con nosotros";
+
+/* Shown when a user pastes a code into the two factor field that contains letters or is the wrong length */
+"That doesn't appear to be a valid verification code." = "No parece ser un código de verificación válido.";
+
+/* Message to show to user when he tries to add a self-hosted site that isn't a WordPress site. */
+"That doesn't look like a WordPress site." = "Eso no parece que sea un sitio WordPress.";
+
+/* No comment provided by engineer. */
+"That email address has already been used. Please check your inbox for an activation email. If you don't activate you can try again in a few days." = "Ese email ya se ha usado. Comprueba si hay un email de activación en tu bandeja de entrada. Si no se activa, puedes intentarlo dentro de unos días.";
+
+/* No comment provided by engineer. */
+"That site address is not allowed." = "Esta dirección del sitio no está permitida";
+
+/* No comment provided by engineer. */
+"That site is currently reserved but may be available in a couple days." = "Este sitio está reservado, pero puede estar libre en un par de días.";
+
+/* No comment provided by engineer. */
+"That username is currently reserved but may be available in a couple of days." = "Este nombre de usuario está reservado, pero podría estar libre en un par de días";
+
+/* No comment provided by engineer. */
+"That username is not allowed." = "Ese nombre de usuario no está permitido.";
+
+/* Description shown when a user logs in with Google but no matching WordPress.com account is found */
+"The Google account \"%@\" doesn't match any account on WordPress.com" = "La cuenta de Google \"%@\" no coincide con ninguna cuenta de WordPress.com";
+
+/* Fetching an Order Failed */
+"The Order couldn't be loaded!" = "No se ha podido cargar el pedido.";
+
+/* Error message describing a problem with a URL. */
+"The URL is missing a valid host." = "La URL no contiene un host válido.";
+
+/* No comment provided by engineer. */
+"The certificate for this server is invalid. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.\n\nWould you like to trust the certificate anyway?" = "El certificado para este servidor no es válido. Puede que estés intentando conectar con un servidor que aparenta ser \"%@\", lo que podría poner en peligro tu información confidencial.\n\n¿Deseas confiar en el certificado de todos modos?";
+
+/* VoiceOver accessibility hint, informing the user that the cell shows the price information for this product. */
+"The price for this product. Editable." = "El precio de este producto. Editable.";
+
+/* Product price error notice message, when the sale price is added but the regular price is not */
+"The sale price can't be added without the regular price." = "No se puede añadir el precio de la rebaja sin incluir el precio normal.";
+
+/* VoiceOver accessibility hint, informing the user that the cell shows the sale price information for this product. */
+"The sale price for this product. Editable." = "El precio de venta de este producto. Editable.";
+
+/* Product price error notice message, when the sale price is higher than the regular price */
+"The sale price should be lower than the regular price." = "El precio rebajado debe ser menor que el normal.";
+
+/* No comment provided by engineer. */
+"The server returned an empty response. This usually means you need to increase the memory limit for your site." = "El servidor ha enviado una respuesta vacía. Normalmente esto significa que tienes que ampliar el límite de memoria para tu sitio.";
+
+/* VoiceOver accessibility hint, informing the user that the cell shows the shipping height information for this product. */
+"The shipping height for this product. Editable." = "La altura de envío de este producto. Editable.";
+
+/* VoiceOver accessibility hint, informing the user that the cell shows the shipping length information for this product. */
+"The shipping length for this product. Editable." = "La longitud de envío de este producto. Editable.";
+
+/* VoiceOver accessibility hint, informing the user that the cell shows the shipping weight information for this product. */
+"The shipping weight for this product. Editable." = "El peso de envío de este producto. Editable.";
+
+/* VoiceOver accessibility hint, informing the user that the cell shows the shipping width information for this product. */
+"The shipping width for this product. Editable." = "La anchura de envío de este producto. Editable.";
+
+/* No comment provided by engineer. */
+"The site address must be shorter than 64 characters." = "La dirección del sitio debe tener menos de 64 caracteres.";
+
+/* Error message shown a URL does not point to an existing site. */
+"The site at this address is not a WordPress site. For us to connect to it, the site must use WordPress." = "Esta dirección no pertenece a un sitio de WordPress. El sitio debe usar WordPress para que podamos conectarnos a él.";
+
+/* Message shown when site deletion API failed */
+"The site could not be deleted." = "No se ha podido eliminar el sitio.";
+
+/* Message shown when site export API failed */
+"The site could not be exported." = "El sitio no puede ser exportado.";
+
+/* VoiceOver accessibility hint, informing the user that the cell shows the stock quantity information for this product. */
+"The stock quantity for this product. Editable." = "La cantidad en inventario de este producto. Editable.";
+
+/* Message explaining that a site is not a WordPress site. Reads like 'The website awebsite.com you'll is not a WordPress site... */
+"The website is not a WordPress site. For us to connect to it, the site must have WordPress installed." = "Esta dirección no pertenece a un sitio de WordPress. El sitio debe tener instalado WordPress para que podamos conectarnos a él.";
+
+/* Error message informing the user that there was a problem blocking posts from a site from their reader. */
+"There was a problem blocking posts from the specified site." = "Ha habido un problema al bloquear las entradas del sitio especificado.";
+
+/* Error message informing the user that there was a problem clearing the block on site preventing its posts from displaying in the reader. */
+"There was a problem removing the block for specified site." = "Ha habido un problema al suprimir el bloque para el sitio especificado.";
+
+/* Text of the notice that is displayed while the refund creation fails. */
+"There was an error issuing the refund" = "Se ha producido un error al emitir el reembolso";
+
+/* Tab selector title that shows the statistics for this month
+   Top Performers section title - this month */
+"This Month" = "Este mes";
+
+/* The message of the alert when there is an error updating the product SKU */
+"This SKU is used on another product or is invalid." = "Este SKU se usa en otro producto o no es válido.";
+
+/* Tab selector title that shows the statistics for this week
+   Top Performers section title - this week */
+"This Week" = "Esta semana";
+
+/* Tab selector title that shows the statistics for this year
+   Top Performers section title - this year */
+"This Year" = "Este año";
+
+/* Body text of alert warning users to upgrade to WC 3.5. */
+"This app requires that you install WooCommerce 3.5 on your server, and won't work properly without it. Update as soon as possible to continue using this app." = "Para usar esta aplicación, debes instalar WooCommerce 3.5 en el servidor. De lo contrario, no funcionará correctamente. Actualízala cuanto antes para poder seguir usando esta aplicación.";
+
+/* An error message informing the user the email address they entered did not match a WordPress.com account. */
+"This email address is not registered on WordPress.com." = "Esta dirección de correo electrónico no está registrada en WordPress.com";
+
+/* Settings > Privacy Settings > privacy info section. Explains what we do with the information we collect. */
+"This information helps us improve our products, make marketing to you more relevant, personalize your WordPress.com experience, and more as detailed in our privacy policy." = "Esta información nos ayuda a mejorar nuestros productos, hacer que el marketing sea más relevante, personalizar tu experiencia en WordPress.com y más, tal como se detalla en nuestra política de privacidad.";
+
+/* Footer text in Product Slug screen */
+"This is the URL-friendly version of the product title" = "Esta es la versión sencilla de la URL del título del producto";
+
+/* Footer text for Downloadable File Name */
+"This is the name of the file shown to the customer." = "This is the name of the file shown to the customer.";
+
+/* Footer text for Downloadable File Name */
+"This is the name of the file shown to the customer." = "Este es el nombre del archivo que se muestra al cliente.";
+
+/* Footer text for Downloadable File URL */
+"This is the url of the file which customers will get accessed to. URLs entered should already be encoded." = "This is the url of the file which customers will get accessed to. URLs entered should already be encoded.";
+
+/* Footer text for Downloadable File URL */
+"This is the url of the file which customers will get accessed to. URLs entered should already be encoded." = "Esta es la URL del archivo al que los clientes podrán acceder. Las URL introducidas ya deberían estar cifradas.";
+
+/* Accessibility label for the Shipping notice
+   Shipping notice row label when there is more than one shipping method */
+"This order is using extensions to calculate shipping. The shipping methods shown might be incomplete." = "Este pedido utiliza extensiones para calcular los envíos. Es posible que los métodos de envío que se muestran no estén completos.";
+
+/* Message displayed when loading a specific product fails */
+"This product couldn't be loaded" = "No se ha podido cargar el producto";
+
+/* Message displayed when loading a specific product fails because product was deleted */
+"This product has been deleted and is no longer visible" = "Este producto se ha eliminado y ya no se muestra";
+
+/* Footer text in Product Catalog Visibility */
+"This setting determines which shop pages products will be listed on." = "Este ajuste determina qué productos de las páginas de la tienda se incluirán en la lista.";
+
+/* Footer text for editing external product button text */
+"This text will be shown on the button linking to the external product." = "Este texto se mostrará en el botón que enlaza al producto externo.";
+
+/* Add Product Category. Placeholder of cell presenting the title of the category.
+   Placeholder in the Product Title row on Product form screen. */
+"Title" = "Título";
+
+/* VoiceOver accessibility hint, informing the user about the title of a product in product detail screen. */
+"Title of the product" = "Título del producto";
+
+/* Action sheet option to sort products by ascending product name */
+"Title: A to Z" = "Título: A-Z";
+
+/* Action sheet option to sort products by descending product name */
+"Title: Z to A" = "Título: Z-A";
+
+/* Title of the cell in Product Price Settings > Schedule sale to a certain date */
+"To" = "Hasta";
+
+/* Text instructing the user to enter their email address. */
+"To create your new WordPress.com account, please enter your email address." = "Para crear tu nueva cuenta de WordPress.com, por favor, introduce tu dirección de correo electrónico.";
+
+/* Settings > Privacy Settings > report crashes section. Explains what the 'report crashes' toggle does */
+"To help us improve the app’s performance and fix the occasional bug, enable automatic crash reports." = "Para mejorar el rendimiento de la aplicación y corregir errores puntuales, activa los informes automáticos sobre fallos.";
+
+/* Instructional text shown when requesting the user's password for Apple login. */
+"To proceed with this Apple ID, please first log in with your WordPress.com password. This will only be asked once." = "Para continuar con este ID de Apple, primero debes acceder con tu contraseña de WordPress.com. Solo se te pedirá una vez.";
+
+/* Instructional text shown when requesting the user's password for Google login. */
+"To proceed with this Google account, please first log in with your WordPress.com password. This will only be asked once." = "Para seguir con esta cuenta de Google, por favor, primero accede con tu contraseña de WordPress.com. Esto solo se te pedirá una vez.";
+
+/* Message explaining that Jetpack needs to be installed for a particular site. Reads like 'To use this ap for awebsite.com you'll need to have... */
+"To use this app for %@ you'll need to have the Jetpack plugin installed and connected on your store." = "Para usar esta aplicación para %@ deberás tener el plugin de Jetpack instalado y conectado en tu tienda.";
+
+/* Tab selector title that shows the statistics for today
+   Today Section Header - Top Performers section title - today */
+"Today" = "Hoy";
+
+/* Accessibility Identifier for the Aztec Ordered List Style. */
+"Toggles the ordered list style" = "Cambia al estilo de lista ordenada";
+
+/* Accessibility Identifier for the Aztec Unordered List Style */
+"Toggles the unordered list style" = "Cambia al estilo de lista sin orden";
+
+/* Header label for Top Performers section of My Store tab. */
+"Top Performers" = "Mejor rendimiento";
+
+/* Used when a Reader Topic is not found for a specific id */
+"Topic not found for id:" = "No se ha encontrado tema con id:";
+
+/* Description for Top Performers right column header */
+"Total Spend" = "Gasto total";
+
+/* Top performers — label for the total number of products ordered */
+"Total orders: %ld" = "Total de pedidos: %ld";
+
+/* Track shipment button title */
+"Track Shipment" = "Hacer un seguimiento del envío";
+
+/* Track shipment of a shipping label from the shipping label tracking more menu action sheet */
+"Track shipment" = "Hacer un seguimiento del envío";
+
+/* Order tracking section title */
+"Tracking" = "Seguimiento";
+
+/* Add custom shipping carrier. Title of cell presenting carrier link */
+"Tracking link (optional)" = "Enlace de seguimiento (opcional)";
+
+/* Add / Edit shipping carrier. Title of cell presenting tracking number
+   Order shipping label tracking number row title. */
+"Tracking number" = "Número de seguimiento";
+
+/* A unit test string. Reads as: 'Trackin number XXX_YYY_ZZZ'
+   Accessibility label for Shipment tracking number in Order details screen. Reads like: Tracking Number 1AZ234567890 */
+"Tracking number %@" = "Número de seguimiento %@";
+
+/* Display label for the review's trash status
+   Move a comment to the trash */
+"Trash" = "Papelera";
+
+/* Connect when the SSL certificate is invalid */
+"Trust" = "Confiar";
+
+/* Button to trigger connection to another account in store picker */
+"Try another account" = "Probar con otra cuenta";
+
+/* When social login fails, this button offers to let the user try again with a differen email address */
+"Try with another email" = "Prueba con otro correo electrónico";
+
+/* When social login fails, this button offers to let them try tp login using a URL */
+"Try with the site address" = "Prueba con la dirección del sitio";
+
+/* Navigation bar title for editing the URL of a text link
+   URL text field placeholder */
+"URL" = "URL";
+
+/* Shown when a user logs in with Google but it subsequently fails to work as login to WordPress.com */
+"Unable To Connect" = "No fue posible conectar";
+
+/* Content of error presented when Add Note Action Failed. It reads: Unable to add note to order #{order number}. Parameters: %1$d - order number */
+"Unable to add note to order #%1$d" = "Unable to add note to order #%1$d";
+
+/* Content of error presented when Add Shipment Tracking Action Failed. It reads: Unable to add tracking to order #{order number}. Parameters: %1$d - order number */
+"Unable to add tracking to order #%1$d" = "Unable to add tracking to order #%1$d";
+
+/* Content of error presented when updating the status of an Order fails. It reads: Unable to change status of order #{order number}. Parameters: %1$d - order number */
+"Unable to change status of order #%1$d" = "Unable to change status of order #%1$d";
+
+/* Content of error presented when Delete Shipment Tracking Action Failed. It reads: Unable to delete tracking for order #{order number}. Parameters: %1$d - order number */
+"Unable to delete tracking for order #%1$d" = "Unable to delete tracking for order #%1$d";
+
+/* Content of error presented when Fullfill Order Action Failed. It reads: Unable to fulfill order #{order number}. Parameters: %1$d - order number */
+"Unable to fulfill order #%1$d" = "Unable to fulfill order #%1$d";
+
+/* Content of error presented when loading the list of shipment carriers failed. It reads: Unable to load Shipment Carriers */
+"Unable to load Shipment Carriers" = "No se han podido cargar las empresas de transporte";
+
+/* Load Product Categories Action Failed */
+"Unable to load categories" = "No se pueden cargar las categorías";
+
+/* Load Action Failed */
+"Unable to load content" = "No se ha podido cargar el contenido";
+
+/* Load Product Attributes Action Failed */
+"Unable to load product attributes" = "No se han podido cargar los atributos del producto";
+
+/* Review error notice message. It reads: Unable to mark review as {attempted status} */
+"Unable to mark review as %@" = "No se ha podido marcar la reseña como %@";
+
+/* No comment provided by engineer. */
+"Unable to read the WordPress site at that URL. Tap 'Need Help?' to view the FAQ." = "No ha sido posible leer el sitio de WordPress en esa dirección URL. Pulsa \"¿Necesitas ayuda?\" para ver las FAQ.";
+
+/* Refresh Action Failed */
+"Unable to refresh list" = "No se ha podido actualizar la lista.";
+
+/* On the site picker screen, the error displayed when connecting to a site fails. It reads: Unable to successfully connect to {site name} */
+"Unable to successfully connect to %@" = "No se ha podido conectar a %@";
+
+/* Error message displayed when an error occurred checking for email availability. */
+"Unable to verify the email address. Please try again later." = "No ha sido posible verificar la dirección de correo electrónico. Por favor, inténtalo de nuevo más tarde.";
+
+/* Unapproves a comment. Spoken Hint. */
+"Unapproves the comment" = "Elimina la aprobación del comentario";
+
+/* Placeholder of the Product Categories row on Product main screen */
+"Uncategorized" = "Sin categoría";
+
+/* Accessibility label for underline button on formatting toolbar. */
+"Underline" = "Subrayado";
+
+/* Undo Action */
+"Undo" = "Deshacer";
+
+/* The message of the alert when there is an unexpected error updating the product */
+"Unexpected error" = "Error inesperado";
+
+/* Unknown Application State
+   Unknown product name, displayed in a review - Unknown Tag Name */
+"Unknown" = "Desconocido";
+
+/* No comment provided by engineer. */
+"Unknown error" = "Error desconocido";
+
+/* Error message when capturing a unknown media type */
+"Unknown media type" = "Tipo de archivo multimedia desconocido";
+
+/* Accessibility label for unordered list button on formatting toolbar. */
+"Unordered List" = "Lista desordenada";
+
+/* Display label for the review's unspam status */
+"Unspam" = "Sacar de spam";
+
+/* Display label for the review's untrash status */
+"Untrash" = "Sacar de la papelera";
+
+/* Footer text below the list of logs explaining the maximum number of logs saved. */
+"Up to seven days՚ worth of logs are saved." = "Se guardan los registros con una antigüedad máxima de siete días.";
+
+/* Upcoming Section Header */
+"Upcoming" = "Próximo";
+
+/* Action for updating a Product remotely
+   Action for updating a Products' downloadable files' info remotely - Label action for updating a link on the editor */
+"Update" = "Actualizar";
+
+/* Title of alert warning users to upgrade to WC 3.5 WITH a site name. It reads: Update {site name} to WooCommerce 3.5 to use this app */
+"Update %@ to WooCommerce 3.5" = "Actualizar %@ a WooCommerce 3.5";
+
+/* Update instructions button title shown in alert warning users to upgrade to WC 3.5. */
+"Update Instructions" = "Actualizar instrucciones";
+
+/* Accessibility label for the button to update the order status in Order Details */
+"Update Order Status" = "Actualizar estado del pedido";
+
+/* Subtitle of the product form bottom sheet action for editing inventory settings. */
+"Update product inventory and SKU" = "Actualiza el inventario de productos y SKU";
+
+/* Accessibility label to update products' downloadable files' info remotely */
+"Update products' downloadable files' info remotely" = "Update products' downloadable files' info remotely";
+
+/* Accessibility label to update products' downloadable files' info remotely */
+"Update products' downloadable files' info remotely" = "Cargar información de archivos de descarga de productos de forma remota";
+
+/* Title of alert warning users to upgrade to WC 3.5. */
+"Update to WooCommerce 3.5 to keep using this app" = "Actualiza a WooCommerce 3.5 para seguir usando esta aplicación";
+
+/* A unit test string for a singular time interval
+   Singular of 'hour' — date and time string that represents the time interval since last data update when exactly 1 hour ago. Usage example: Updated 1 hour ago */
+"Updated %ld hour ago" = "Se ha actualizado hace %ld hora";
+
+/* A unit test string for 1 day, represented as plural time interval in hours
+   A unit test string for a plural time interval in hours - A unit test string for time interval just under 1 day - Plural of 'hour' — date and time string that represents the time interval since last data update when greater than 1 hour ago. Usage example: Updated 14 hours ago */
+"Updated %ld hours ago" = "Se ha actualizado hace %ld horas";
+
+/* Singular of 'minute' — date and time string that represents the time interval since last data update when exactly 1 minute ago. Usage example: Updated 1 minute ago */
+"Updated %ld minute ago" = "Se ha actualizado hace %ld minuto";
+
+/* A unit test string for a plural time interval in minutes
+   A unit test string for time intervals - Plural of 'minute' — date and time string that represents the time interval since last data update when greater than 1 minute ago. Usage example: Updated 55 minutes ago */
+"Updated %ld minutes ago" = "Se ha actualizado hace %ld minutos";
+
+/* A unit test string for relative time intervals
+   Deictic expression for a data update that occurred in the very recent past - similar to 'Updated just now' */
+"Updated moments ago" = "Se ha actualizado hace unos instantes";
+
+/* A specific date and time string which represents when the data was last updated. Usage example: Updated on Jan 22, 2019 3:31PM
+   Updated on <date> */
+"Updated on %@" = "Fecha de actualización: %@";
+
+/* Cell title for Upsells products in Linked Products Settings screen */
+"Upsells" = "Ventas dirigidas";
+
+/* Navigation bar title for editing linked products for upsell products */
+"Upsells Products" = "Ventas dirigidas de productos";
+
+/* Accessibility label for the username text field in the self-hosted login page.
+   Login dialog username placeholder - Placeholder for the username textfield. - Username placeholder */
+"Username" = "Usuario";
+
+/* No comment provided by engineer. */
+"Username must be at least 4 characters." = "El nombre de usuario debe tener al menos 4 caracteres.";
+
+/* Display label for variable product type. */
+"Variable" = "Variable";
+
+/* Action sheet option when the user wants to change the Product type to varible product */
+"Variable product" = "Producto variable";
+
+/* Footer of text field section in Add Attribute screen */
+"Variation type (ie Color, Size)" = "Tipo de variación (p. ej. color, tamaño)";
+
+/* Title of the Product Variations row on Product main screen for a variable product
+   Title that appears on top of the Product Variation List screen. */
+"Variations" = "Variaciones";
+
+/* Banner caption in my store when the stats will be deprecated */
+"Variations without price will not be shown in your store." = "Las variaciones sin precio no se mostrarán en tu tienda.";
+
+/* Title of the no price warning row on Product Variation main screen when a variation is enabled without a price */
+"Variations without price won’t be shown in your store" = "Las variaciones sin precio no se mostrarán en tu tienda";
+
+/* two factor code placeholder */
+"Verification code" = "Código de verificación";
+
+/* Step 1 of shipping label printing instructions screen. The content inside two double asterisks **...** denote bolded text. */
+"Verify your printer and device are connected to the **same Wi-Fi network**.\n\nCheck your printer's documentation for information on connecting it to your Wi-Fi network." = "Verify your printer and device are connected to the **same Wi-Fi network**.\n\nCheck your printer's documentation for information on connecting it to your Wi-Fi network.";
+
+/* Displays the version of the App */
+"Version %@" = "Versión %@";
+
+/* View application log cell title */
+"View Application Log" = "Ver registro de la aplicación";
+
+/* Accessibility label for the 'View Billing Information' button
+   Button on bottom of Customer's information to show the billing details */
+"View Billing Information" = "Ver la información de facturación";
+
+/* Button title View product in store in Edit Product More Options Action Sheet */
+"View Product in Store" = "Ver producto en tienda";
+
+/* Accessibility label for the 'View Shipment Details' button
+   Button on bottom of shipping label package card to show shipping details */
+"View Shipment Details" = "Ver los detalles del envío";
+
+/* The action to update downloadable files settings for a product */
+"View downloadable file settings" = "Ver ajustes de archivo de descarga";
+
+/* The action to update downloadable files settings for a product */
+"View downloadable file settings" = "View downloadable file settings";
+
+/* subtitle for My Tickets */
+"View previously submitted support tickets" = "Consulta las peticiones de soporte enviadas previamente";
+
+/* Accessibility label for the 'View details' refund button */
+"View refund details" = "Ver detalles del reembolso";
+
+/* Accessibility label for the '<number> Products' button */
+"View refunded order items" = "Ver elementos de pedido reembolsados";
+
+/* User role badge */
+"Viewer" = "Lector";
+
+/* Display label for simple virtual product type. */
+"Virtual" = "Virtual";
+
+/* Virtual Product label in Product Settings */
+"Virtual Product" = "Producto virtual";
+
+/* Product Visibility navigation title
+   Visibility label in Product Settings */
+"Visibility" = "Visibilidad";
+
+/* Visitors stat label on dashboard - should be plural. */
+"Visitors" = "Visitantes";
+
+/* Add a note screen - Write Note section title */
+"WRITE NOTE" = "ESCRIBIR NOTA";
+
+/* Message shown on screen while waiting for Google to finish its signup process. */
+"Waiting for Google to complete…" = "Esperando a que Google termine…";
+
+/* The message shown in the Orders → All Orders tab if the list is empty. */
+"Waiting for your first order" = "Esperando tu primer pedido";
+
+/* View title during the Google auth process. */
+"Waiting..." = "Esperando...";
+
+/* shown in promotional screens during first launch */
+"Watch readers from around the world read and interact with your site — in real time." = "Ve lo que lectores de todo el mundo leen e interactúa con tu sitio - en tiempo real.";
+
+/* Shown in the prologue carousel (promotional screens) during first launch. */
+"Watch your audience grow with in-depth analytics." = "Observa el crecimiento de tu audiencia con análisis detallados.";
+
+/* The info of the shipping labels top banner in order details */
+"We are working on making it easier for you to print shipping labels directly from your device! For now, if you have created labels for an order in your store admin with WooCommerce Shipping, you can print them in your Order details here." = "We are working on making it easier for you to print shipping labels directly from your device! For now, if you have created labels for an order in your store admin with WooCommerce Shipping, you can print them in your Order details here.";
+
+/* Title when we can't show stats because user is on a deprecated WC Version */
+"We can’t display your store’s analytics" = "No podemos mostrar los análisis en tiempo real de tu tienda";
+
+/* message to ask a user to check their email for a WordPress.com email */
+"We just emailed a link to %@. Please check your mail app and tap the link to log in." = "Acabamos de enviar por correo electrónico un enlace a %@. Por favor, comprueba tu aplicación de correo y toca el enlace para acceder.";
+
+/* Settings > Privacy Settings > cookie info section. Explains what we do with the cookie information we collect. */
+"We use other tracking tools, including some from third parties. Read about these and how to control them." = "Utilizamos otras herramientas de seguimiento, incluyendo algunas de terceras partes. Lee acerca de ellas y cómo controlarlas.";
+
+/* Error message displayed when an error occurred sending the magic link email. */
+"We were unable to send you an email at this time. Please try again later." = "No hemos sido capaces de enviarte un correo electrónico en este momento. Por favor, inténtalo más tarde de nuevo.";
+
+/* Instructional text for the magic link login flow. */
+"We'll email you a magic link that'll log you in instantly, no password needed. Hunt and peck no more!" = "Te enviaremos por correo electrónico un enlace mágico que te registrará al instante, sin necesidad de contraseña. ¡Sin errores!";
+
+/* Instruction text on the Sign Up screen. */
+"We'll email you a signup link to create your new WordPress.com account." = "Te enviaremos por correo electrónico un enlace de registro para crear tu cuenta de WordPress.com.";
+
+/* The detailed message shown in the Orders → All Orders tab if the list is empty. */
+"We'll notify you when you receive a new order. In the meantime, explore how you can increase your store sales." = "Te avisaremos cuando recibas un nuevo pedido. Mientras tanto, descubre cómo puedes aumentar las ventas de tu tienda.";
+
+/* Text confirming email address to be used for new account. */
+"We'll use this email address to create your new WordPress.com account." = "Usaremos esta dirección de correo electrónico para crear tu nueva cuenta de WordPress.com.";
+
+/* Error message shown when having trouble connecting to a Jetpack site. */
+"We're not able to connect to the Jetpack site at that URL.  Contact us for assistance." = "No podemos conectar con el sitio Jetpack en esa URL. Contacta con nosotros para que te ayudemos.";
+
+/* Default message to show if a filtered Orders list is empty. */
+"We're sorry, we couldn't find any orders." = "Lo sentimos, no hemos encontrado ningún pedido.";
+
+/* Message shown if a filtered Orders list is empty. The %@ is a placeholder for the order status. */
+"We're sorry, we couldn't find any “%@” orders" = "Lo sentimos, no hemos encontrado pedidos de \"%@\"";
+
+/* Message for empty Orders search results. The %@ is a placeholder for the text entered by the user.
+   Message for empty Products search results. The %@ is a placeholder for the text entered by the user. */
+"We're sorry, we couldn't find results for “%@”" = "Lo sentimos, no hemos encontrado resultados para \"%@\"";
+
+/* Instruction text after a signup Magic Link was requested. */
+"We've emailed you a signup link to create your new WordPress.com account. Check your email on this device, and tap the link in the email you receive from WordPress.com." = "Te hemos enviado por correo electrónico un enlace de registro para crear tu cuenta de WordPress.com. Consulta tu correo electrónico en este dispositivo y toca el enlace del mensaje que recibas de WordPress.com.";
+
+/* Statistical unit - a single week */
+"Week" = "Semana";
+
+/* Plural of 'week' — a statistical unit */
+"Weeks" = "Semanas";
+
+/* Title of the cell in Product Shipping Settings > Weight */
+"Weight" = "Peso";
+
+/* Format of the weight on the Shipping Settings row - weight[unit] */
+"Weight: %1$@%2$@" = "Peso: %1$@%2$@";
+
+/* Shown in the prologue carousel (promotional screens) during first launch. */
+"Welcome to the world’s most popular website builder." = "Te damos la bienvenida al creador de sitios web más popular en todo el mundo.";
+
+/* Title of alert informing users of what email they can use to sign in.Presented when users attempt to log in with an email that does not match a WP.com account */
+"What email do I use to sign in?" = "¿Qué dirección de correo electrónico debo usar para iniciar sesión?";
+
+/* Button linking to webview that explains what Jetpack isPresented when logging in with a site address that does not have a valid Jetpack installation */
+"What is Jetpack" = "Qué es Jetpack";
+
+/* Title of alert informing users of what Jetpack is. Presented when users attempt to log in without Jetpack installed or connected */
+"What is Jetpack?" = "¿Qué es Jetpack?";
+
+/* Title of alert helping users understand their site address */
+"What's my site address?" = "¿Cuál es la dirección de mi sitio?";
+
+/* An error message shown when a wpcom user provides the wrong password. */
+"Whoops, something went wrong and we couldn't log you in. Please try again!" = "Vaya, algo salió mal y no pudimos conectarte. ¡Por favor, inténtalo de nuevo!";
+
+/* Error message shown when an incorrect two factor code is provided. */
+"Whoops, that's not a valid two-factor verification code. Double-check your code and try again!" = "Vaya, eso no es un código de verificación en dos pasos. ¡Vuelve a comprobar tu código e inténtalo de nuevo!";
+
+/* Title of the cell in Product Shipping Settings > Width */
+"Width" = "Ancho";
+
+/* Shown in the prologue carousel (promotional screens) during first launch. */
+"With this powerful editor you can post on the go." = "Con este potente editor puedes hacer publicaciones sobre la marcha.";
+
+/* Navigates to about WooCommerce app screen */
+"WooCommerce" = "WooCommerce";
+
+/* Subject of new Zendesk ticket. */
+"WooCommerce for iOS Support" = "Servicio de soporte de WooCommerce para iOS";
+
+/* Menu option for selecting media from the site's media library.
+   Navigation bar title for WordPress Media Library image picker */
+"WordPress Media Library" = "Biblioteca multimedia de WordPress";
+
+/* No comment provided by engineer. */
+"WordPress version too old. The site at %@ uses WordPress %@. We recommend to update to the latest version, or at least %@" = "La versión de WordPress es demasiado antigua. El sitio en %1$@ utiliza la versión %2$@ de WordPress. Recomendamos actualizarla a la versión más reciente o al menos a la %3$@";
+
+/* Option to select the Yahoo Mail app when logging in with magic links */
+"Yahoo Mail" = "Yahoo Mail";
+
+/* Statistical unit - a single year */
+"Year" = "Año";
+
+/* Plural of 'year' — a statistical unit */
+"Years" = "Años";
+
+/* Confirmation button on the alert when the user is changing product type */
+"Yes, change" = "Sí, cambiar";
+
+/* Yesterday Section Header */
+"Yesterday" = "Ayer";
+
+/* Header text in Refund Shipping Label screen */
+"You can request a refund for a shipping label that has not been used to ship a package.\nIt will take a least 14 days to process." = "Puedes solicitar un reembolso para una etiqueta de envío que no se haya utilizado para enviar un paquete.\nTardará al menos 14 días en procesarse.";
+
+/* No comment provided by engineer. */
+"You cannot use that email address to signup. We are having problems with them blocking some of our email. Please use another email provider." = "No puedes usar este correo electrónico para registrarte. Estamos teniendo problemas con él, bloquea nuestros correos electrónicos. Por favor, usa otro proveedor.";
+
+/* Alert message to confirm the user wants to discard changes in Product Visibility */
+"You need to add a password to make your product password-protected" = "Tienes que añadir una contraseña para proteger el producto";
+
+/* No comment provided by engineer. */
+"You seem to have installed a mobile plugin from DudaMobile which is preventing the app to connect to your blog" = "Parece que tienes instalado el plugin móvil de DudaMobile y está impidiendo a la aplicación conectarse a tu blog";
+
+/* shown in promotional screens during first launch */
+"Your notifications travel with you — see comments and likes as they happen." = "Tus avisos viajan contigo - ve los comentarios y me gusta a medida que ocurran.";
+
+/* Body text of alert helping users understand their site address */
+"Your site address appears in the bar at the top of the screen when you visit your site in Safari." = "Your site address appears in the bar at the top of the screen when you visit your site in Safari.";
+
+/* Comment Attachment Label */
+"[COMMENT]" = "[COMENTARIO]";
+
+/* Placeholder for the site url textfield.
+   Site Address placeholder */
+"example.com" = "ejemplo.com";
+
+/* Later today */
+"later today" = "más tarde hoy";
+
+/* A manual refund is one where the store owner has given the purchaser alternative funds (cash, check, ACH) instead of using the payment gateway to create a refund (credit card or debit card was refunded) */
+"manual refund" = "reembolso manual";
+
+/* No comment provided by engineer. */
+"password" = "Contraseña";
+
+/* Format of the number of product ratings in plural form */
+"rated %ld times" = "tiene %ld valoraciones";
+
+/* Format of the number of product ratings in singular form */
+"rated once" = "tiene una valoración";
+
+/* Today */
+"today" = "hoy";
+
+/* Used when the response doesn't have a valid url to display */
+"unknown url" = "url desconocida";
+
+/* Placeholder for site url, if the url is unknown.Presented when logging in with a site address that does not have a valid Jetpack installation.The error would read: to use this app for your site you'll need... */
+"your site" = "tu sitio";
+
+/* Label for button to log in using Google. The {G} will be replaced with the Google logo. */
+"{G} Log in with Google." = "{G} Acceder con Google.";
+
+/* About View's Footer Text. The variable is the current year */
+"© %@ Automattic, Inc." = "© %@ Automattic, Inc.";
+
+/* Customer note, wrapped in quotes */
+"“%@”" = "“%@”";
+
+/* Text of the notice that is displayed after the refund is created. */
+"🎉 Products successfully refunded" = "Se han reembolsado correctamente 🎉 productos";
+
