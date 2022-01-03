@@ -17,3 +17,7 @@ puts strings.to_hash['today']
 
 puts ">>> Value for key 'No limit', which we know is duplicated"
 puts strings.to_hash['No limit']
+
+# puts strings.keys
+
+puts strings.keys.count != strings.keys.uniq.count
